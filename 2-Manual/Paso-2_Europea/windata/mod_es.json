@@ -1,0 +1,42 @@
+{
+ "indice_mod_sha1": "81afb1f532b8923bc0e7f83e1216bb6ceb373fe5",
+ "tam_original": 339873792,
+ "regiones": [
+  "eu"
+ ],
+ "juegos": [
+  {
+   "id": "cotm-eu",
+   "nombre": "Castlevania: Circle of the Moon",
+   "entrada": "system/roms/01_Circle_EU.patch_210614m.bin.m",
+   "region": "eu",
+   "version": "europea (EU)",
+   "parches": [
+    "cotm-es.ips"
+   ],
+   "sha1_rom_es": "eb0d19e5425b35180e2e17787109f4266e09bb77"
+  },
+  {
+   "id": "hod-eu",
+   "nombre": "Castlevania: Harmony of Dissonance",
+   "entrada": "system/roms/02_Byakuya_EU.patch_210520m.bin.m",
+   "region": "eu",
+   "version": "europea (EU)",
+   "parches": [
+    "hod-es.ips"
+   ],
+   "sha1_rom_es": "a93dbcdc81e5f50b45266571eb8f2a71abf448fd"
+  },
+  {
+   "id": "aos-eu",
+   "nombre": "Castlevania: Aria of Sorrow",
+   "entrada": "system/roms/03_Akatsuki_EU.patch_210623m.bin.m",
+   "region": "eu",
+   "version": "europea (EU)",
+   "parches": [
+    "aos-es.ips"
+   ],
+   "sha1_rom_es": "4643e3b7d346f1294e05be6f4664472d36863998"
+  }
+ ]
+}
