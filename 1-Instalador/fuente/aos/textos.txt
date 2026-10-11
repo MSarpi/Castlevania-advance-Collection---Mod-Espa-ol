@@ -1,0 +1,449 @@
+# Aria of Sorrow - descripciones y menús (@ID texto). El ajuste de línea es automático.
+# Botones: {0B}=B {0C}=A {0D}=L {0E}=R {0F}=ARRIBA {10}=ABAJO {11}=DERECHA {12}=IZQUIERDA
+
+# Nombres que el glosario no puede resolver por tener el mismo texto en inglés
+@09D Martillo
+
+# ---------------------------------------------------------------- Objetos
+@15C Restaura 100 HP.
+@15D Restaura 400 HP.
+@15E Restaura TODO el HP.
+@15F Restaura 29 HP.
+@160 Restaura 290 HP.
+@161 Restaura el 20% de tu MP.
+@162 Restaura el 50% de tu MP.
+@163 Restaura TODO tu MP.
+@164 Contrarresta los efectos del veneno.
+@165 Anula los efectos de las maldiciones.
+@166 Los bordes tostados son lo mejor.
+@167 Un sabor bastante adictivo.
+@168 Fideos en un caldo hecho con huesos de cerdo.
+@169 Lleva una cereza encima.
+@16A Suave, esponjoso y dulce.
+@16B Leche descremada.
+@16C Café descafeinado.
+@16D Bébelo despacio y relájate.
+@16E Tiembla y se menea.
+@16F Una fresa gordita y dulce.
+@170 Un melón de la mejor calidad.
+@171 Frescas y jugosas.
+@172 Una fruta amarga.
+@173 Un trozo de carne de res podrida.
+@174 Venció hace tres años.
+@175 Abre las puertas marcadas con una calavera.
+@176 El primer espíritu es un demonio de las llamas del infierno.
+@177 El segundo espíritu es el Rey de los Murciélagos.
+@178 El tercer espíritu es una hermosa pesadilla.
+@179 Contiene una parte del plano del castillo.
+@17A Contiene una parte del plano del castillo.
+@17B Contiene una parte del plano del castillo.
+@17C Navaja de bolsillo barata.
+@17D Una daga común y corriente.
+@17E Cuchillo diseñado para el combate cuerpo a cuerpo.
+@17F Espada corta.
+@180 Espada larga de hoja y empuñadura anchas.
+@181 Espada extensible.
+@182 Antigua espada romana.
+@183 Célebre hoja conocida como "Gram".
+@184 Puede convertir en piedra a los enemigos.
+@185 Espada que segrega veneno.
+@186 Espada tallada de un árbol sagrado.
+@187 Espada encantada de hielo.
+@188 Espada forjada por manos de gigantes.
+@189 Espada encantada de fuego.
+@18A Espada mística de protección.
+@18B Espada de la oscuridad.
+@18C Forjada con el rayo de Indra.
+@18D Espada legendaria de los matadragones.
+@18E Espada de hoja ancha.
+@18F Hoja curva de filo cortante.
+@190 Espada larga bien equilibrada.
+@191 Espada larga y pesada.
+@192 Hermosa espada hecha de oro.
+@193 La espada mágica definitiva.
+@194 Célebre espada de los matadragones.
+@195 Espada de hoja resplandeciente.
+@196 Espada que porta el Guardia final.
+@197 Espada hecha de bambú.
+@198 Espada sin nada especial.
+@199 Espada de hoja muy larga.
+@19A Se dice que mató a un demonio.
+@19B Se dice que mató a un demonio.
+@19C Se dice que mató a un demonio.
+@19D Su hoja tiene sed de sangre.
+@19E Un martillo común y corriente.
+@19F Martillo diseñado para el combate cuerpo a cuerpo.
+@1A0 La legendaria espada en la piedra.
+@1A1 Martillo que invoca rayos.
+@1A2 Hacha diseñada para el combate cuerpo a cuerpo.
+@1A3 La guadaña con que la Muerte siega almas.
+@1A4 Espada hecha para estocar.
+@1A5 Espada de hoja fina como una aguja.
+@1A6 Espada corta para estocar.
+@1A7 Lanza común.
+@1A8 Lanza con punta de tres dientes.
+@1A9 Lanza larga usada por soldados de caballería.
+@1AA Lanza de punta extra ancha.
+@1AB Lanza forjada por brujas.
+@1AC Lanza imbuida de rayos.
+@1AD Lanza sagrada.
+@1AE Accesorio para el puño que sirve para golpear.
+@1AF Tu puño se vuelve tan fuerte como el de un dios furioso.
+@1B0 Lanza golpes más rápidos de lo que el ojo puede ver.
+@1B1 Permite lanzar golpes como latigazos.
+@1B2 Añade veneno a tus golpes.
+@1B3 Usa balas de 9 mm Parabellum.
+@1B4 Dispara balas de plata de ley.
+@1B5 Dispara positrones.
+@1B6 Crea un vórtice de cuchillas que despedaza a los enemigos.
+@1B7 Ropa normal e informal.
+@1B8 Túnica cosida con tela.
+@1B9 Ropa para practicar deportes o artes marciales.
+@1BA Ropa resistente hecha especialmente para el campo de batalla.
+@1BB Holgado atuendo de los ninjas.
+@1BC Uniforme de un soldado que luchó en la Guerra del Castillo.
+@1BD Traje negro tan oscuro como el cielo nocturno.
+@1BE Traje blindado que una vez vistió Olrox.
+@1BF Túnica que posee los poderes de Drácula.
+@1C0 Peto hecho de cuero.
+@1C1 Peto de cobre martillado.
+@1C2 Peto de hierro.
+@1C3 Peto forjado en acero.
+@1C4 Peto de plata pura.
+@1C5 Peto de oro puro.
+@1C6 Excelente armadura con garantía de durar para siempre.
+@1C7 Armadura roja usada por los guerreros samurái.
+@1C8 Túnica cosida con seda.
+@1C9 Ropa tejida por un elfo.
+@1CA Túnica que una vez vistió la mismísima Muerte.
+@1CB Más resistente a los ataques de oscuridad.
+@1CC Más resistente a los ataques de fuego.
+@1CD Más resistente a los ataques de agua.
+@1CE A veces detiene los ataques.
+@1CF Chaqueta tejida con una fibra especial difícil de cortar.
+@1D0 Capa de tela nada excepcional.
+@1D1 Manto rojo como la sangre.
+@1D2 Manto negro azabache que recuerda al cielo nocturno.
+@1D3 Dije común.
+@1D4 Dije con forma de corazón.
+@1D5 Cálida y acogedora.
+@1D6 Una bufanda de color rojo vivo.
+@1D7 Cinturón que da a quien lo lleva una actitud positiva.
+@1D8 Prueba de excelencia en las artes marciales.
+@1D9 Collar de aspecto inquietante.
+@1DA Collar adornado con un símbolo de fuego.
+@1DB El mismísimo Satán llevó este anillo.
+@1DC Piedra preciosa roja como la sangre.
+@1DD Amuleto de la suerte que venden en el Santuario Hakuba.
+@1DE Aumenta la frecuencia con que aparecen objetos raros.
+@1DF Aumenta la frecuencia con que aparecen almas.
+@1E0 Aumenta la velocidad a la que se recupera el MP.
+@1E1 Aumenta la experiencia al caminar con este anillo puesto.
+@1E2 Los enemigos dejan más dinero si llevas este anillo.
+@1E3 Contiene los poderes del Caos.
+
+# ------------------------------------------------------------------ Almas
+@1E4 Lanza lanzas.
+@1E5 Ataca con ondas supersónicas.
+@1E6 Lanza huesos.
+@1E7 Dispara un chorro de agua.
+@1E8 Lanza hachas a los enemigos.
+@1E9 Dispara flechas encantadas.
+@1EA Ataca a los enemigos bajo el agua. Muere fuera de ella.
+@1EB Ataca lanzando cuervos contra los enemigos.
+@1EC Lanza granadas de mano.
+@1ED Invoca un espíritu que luchará contra el mal.
+@1EE Su canto hechiza a los enemigos.
+@1EF Crea un vórtice de cuchillas alrededor de sus rivales.
+@1F0 Lanza katanas.
+@1F1 Arroja rocas a los enemigos.
+@1F2 Suelta un gato letal que corre a toda velocidad hacia los enemigos.
+@1F3 Atrapa a los enemigos con una telaraña pegajosa.
+@1F4 Salta como loco.
+@1F5 Lanza cuchillos de carnicero afilados.
+@1F6 Arroja curry caliente a sus rivales.
+@1F7 Invoca y lanza águilas.
+@1F8 Arroja barro a los enemigos.
+@1F9 Dispara un rayo petrificador.
+@1FA Crea una fuente de fuego mágico.
+@1FB Dispara plumas afiladas como navajas.
+@1FC Entierra minas por todo su territorio.
+@1FD Lanza al aire minas que explotan a intervalos fijos.
+@1FE Dispara un láser de ondas.
+@1FF Enciende fuegos en el aire.
+@200 Dispara bolas de fuego.
+@201 Hace trizas a los enemigos con un disco giratorio.
+@202 Invoca pesadillas para usarlas como armas.
+@203 Arroja bolas de limo a los enemigos.
+@204 Se fortalece robando HP a sus enemigos.
+@205 Apuñala a los enemigos con un cuchillo ensangrentado.
+@206 Asesta un golpe recto potentísimo.
+@207 Asesta un gancho potentísimo.
+@208 Dispara una serie de bolas de fuego explosivas.
+@209 Mata a los enemigos con su grito.
+@20A Dispara un rayo mortal.
+@20B Debilita a sus enemigos con sus garras venenosas.
+@20C Lanza calaveras gigantes.
+@20D Lanza ruedas a los enemigos.
+@20E Desata una furiosa lluvia de magia sobre los enemigos.
+@20F Calcina a los enemigos con sus llamas abrasadoras.
+@210 Descarga rayos desde la punta de los dedos.
+@211 Corta a los enemigos con su espada.
+@212 Un poder destructivo asombroso.
+@213 Blande un hacha enorme.
+@214 Dispara una ráfaga de láseres.
+@215 Asesta un golpe mortal.
+@216 Hipnotiza al enemigo.
+@217 Un escudo de camuflaje te hace invisible ante los enemigos.
+@218 Capacidad de intercambiar el HP y el MP de los enemigos.
+@219 Invencibilidad temporal.
+@21A Capacidad de detener el tiempo.
+@21B Golpea a los enemigos.
+@21C Caes más despacio y saltas más lejos.
+@21D Te transformas en murciélago y puedes volar.
+@21E Genera ondas de choque mientras corres.
+@21F Crea un muro giratorio de llamas.
+@220 Repele las balas con un escudo.
+@221 Proporciona una barrera protectora.
+@222 Protege de los ataques enemigos.
+@223 La STR aumenta un 120%.
+@224 Exhala al aire una nube petrificante.
+@225 Irradia llamas.
+@226 Golpea a los enemigos.
+@227 Golpea a los enemigos.
+@228 Su sombra lucha a su lado.
+@229 Apoya en la batalla desde atrás.
+@22A Capacidad de detenerte en el aire.
+@22B Absorbe el HP de los enemigos con un objeto mágico.
+@22C Restaura la salud.
+@22D Te transforma en un demonio que embiste a los enemigos.
+@22E Te transforma en una bestia mágica que embiste a los enemigos.
+@22F Te transforma en un demonio que embiste a los enemigos.
+@230 Al rezar, la LCK y la STR aumentan por un momento.
+@231 Invoca al familiar "Trasgo".
+@232 Invoca al familiar "ALASTOR".
+@233 Ataca a los enemigos con hoces.
+@234 Caminas sobre la superficie del agua.
+@235 Te permite caminar bajo el agua.
+@236 Saltar al recibir daño restaura la salud.
+@237 Resistes mucho daño sin inmutarte.
+@238 Desvía ataques normales pulsando {0F} + {0B}.
+@239 Identifica las paredes que se pueden romper.
+@23A Absorbe HP del enemigo al dar un golpe normal.
+@23B Disfruta comiendo las cosas más raras.
+@23C Te permite comprar a precios más bajos.
+@23D Si te quedas quieto, el HP se restaura poco a poco.
+@23E Aumenta la recuperación de MP.
+@23F Se vuelve más fuerte al estar envenenado.
+@240 Gana fuerza a medida que pierde HP.
+@241 Reúne almas para aumentar la fuerza.
+@242 La defensa aumenta y el ataque disminuye.
+@243 Aumenta la experiencia un 120%.
+@244 Ganas dinero al recibir daño.
+@245 Restaura MP al recibir daño.
+@246 Inmunidad al veneno.
+@247 Inmunidad a las maldiciones.
+@248 Inmunidad a la petrificación.
+@249 La STR aumenta en 4.
+@24A La STR aumenta en 8.
+@24B La STR aumenta en 12.
+@24C La STR aumenta en 16.
+@24D La CON aumenta en 4.
+@24E La CON aumenta en 8.
+@24F La CON aumenta en 12.
+@250 La CON aumenta en 16.
+@251 La INT aumenta en 4.
+@252 La INT aumenta en 8.
+@253 La INT aumenta en 12.
+@254 La INT aumenta en 16.
+@255 La LCK aumenta en 4.
+@256 La LCK aumenta en 8.
+@257 Retrocede de un salto pulsando {0D}.
+@258 Deslízate pulsando {10} + {0C}.
+@259 Salta otra vez en pleno salto.
+@25A Da una patada en el doble salto pulsando {10} + {0C}.
+@25B Haz un supersalto pulsando {0D} en pleno salto.
+@25C Reconoce los lugares donde el tiempo se ha detenido.
+
+# --------------------------------------------------------------- Enemigos
+@2CE Un murciélago chupasangre que acecha en el castillo.
+@2CF Un cadáver putrefacto animado por la magia.
+@2D0 Un esqueleto humano animado por la magia.
+@2D1 Vive cerca de la orilla y ataca todo lo que se le acerca.
+@2D2 Un soldado con armadura que empuña un hacha.
+@2D3 Un esqueleto arquero.
+@2D4 El "perro guardián" oficial del castillo.
+@2D5 Un pez grande que come hombres. Dicen que es muy sabroso.
+@2D6 Los restos del cuello de un dinosaurio, animados por la magia.
+@2D7 Un cuervo azul que picotea cadáveres putrefactos.
+@2D8 Un león con cinco patas.
+@2D9 Los restos de un dinosaurio animados por la magia.
+@2DA Cadáver animado de un soldado que marchó a su muerte hace 36 años.
+@2DB El esqueleto de un espadachín muerto, animado por la magia.
+@2DC Un pequeño espíritu condenado a vagar por el castillo eternamente.
+@2DD Una bestia cuya hermosa voz tiene el poder de hipnotizar.
+@2DE Este demonio es aterrador a pesar de su pequeño tamaño.
+@2DF Un monstruo que se da festines con la carne de sus víctimas.
+@2E0 Un soldado con armadura que arroja rocas.
+@2E1 Convertido en fantasma gigante por la magia del castillo.
+@2E2 Un esqueleto al que le han dado alas de hueso.
+@2E3 Esta mezcla de hombre y toro posee poderes sobrehumanos.
+@2E4 Una bruja en prácticas. A veces logra aterrizar sin estrellarse.
+@2E5 Esta bestia parece mitad mujer, mitad araña.
+@2E6 Criatura que salta de un lado a otro como una pulga.
+@2E7 Le encanta rebanar cosas con sus gastados cuchillos de carnicero.
+@2E8 Una reencarnación del antiguo dios serpiente.
+@2E9 Sustancia algodonosa que emana de los cadáveres con pesares.
+@2EA El aliento de esta bestia bovina convierte en piedra a los seres vivos.
+@2EB El fantasma de un aristócrata que baila con elegancia.
+@2EC Un mesero esquelético que lleva un plato de delicioso curry.
+@2ED Una figurilla poseída por el espíritu de un asesino en serie.
+@2EE Cadáver animado de un teniente que marchó a su muerte hace 36 años.
+@2EF Un cadáver gigante cuyo cuerpo se desplomó bajo su propio peso.
+@2F0 Una figura humana hecha de madera y animada por la magia.
+@2F1 Una serpiente mítica cuya existencia demostró Soma Cruz en 2035.
+@2F2 Una doncella demonio que servía a un noble señor.
+@2F3 Te roba el alma mientras sueñas. Tiene aspecto de mujer hermosa.
+@2F4 Un ángel que caza y masacra a los hombres bestia.
+@2F5 Este demonio salta desde los espejos y ataca a su presa.
+@2F6 Conejo que detiene el tiempo con un reloj. Estricto con la puntualidad.
+@2F7 Una guerrera de rostro hermoso y corazón malvado.
+@2F8 Está encantadísima de haberse convertido en bruja.
+@2F9 Un demonio que usa sus cuatro brazos para aplastar cosas.
+@2FA Un águila atroz que lleva consigo al Destripador.
+@2FB Un cuervo feroz teñido de rojo por la sangre de los heridos.
+@2FC Una mirada de esta bestia con forma de ave te convertirá en piedra.
+@2FD El fantasma a caballo de un guerrero samurái muerto.
+@2FE Una criatura surgida del abismo más profundo del infierno.
+@2FF Un demonio diminuto que adora las travesuras.
+@300 Un hombre salvaje que se transforma en lobo.
+@301 Una criatura bovina con la piel endurecida de hierro.
+@302 Un soldado con armadura que posee discos giratorios muy afilados.
+@303 Una figura humana moldeada con tierra y animada por la magia.
+@304 Un monstruo con cuerpo de león, alas de murciélago y cola de escorpión.
+@305 Una criatura a la que le encanta trastear con máquinas.
+@306 Un monstruo ave con el torso de una mujer.
+@307 Una criatura producida en masa a partir de la cabeza de Medusa.
+@308 Un soldado con armadura que arroja bombas.
+@309 Una muñeca poseída por el espíritu de un preso electrocutado.
+@30A Un soldado muy armado hecho con cadáveres de grandes guerreros.
+@30B Monstruo vegetal que ataca a su presa con hojas llenas de espinas.
+@30C Convertido en insecto gigante por la magia del castillo.
+@30D Un erizo de mar gigante y mutante.
+@30E Un gusano que se alimenta de calaveras.
+@30F Peces muertos reanimados para proteger el mar.
+@310 Un demonio que se instala en los sueños.
+@311 Soberano del reino de las aguas.
+@312 Una criatura cuyo cuerpo está hecho de una sustancia gelatinosa.
+@313 Una figura humana moldeada con tierra y animada por la magia.
+@314 Un malvado espíritu de los árboles.
+@315 Un insecto grande que escupe veneno.
+@316 Usa los poderes de la oscuridad para sembrar el caos en el mundo.
+@317 Un demonio quisquilloso del inframundo.
+@318 A este demonio le gusta matar gente con un cuchillo.
+@319 Practica su golpe recto para poder vencer al Hombre tigre.
+@31A Un demonio de los calderos del infierno con el cuerpo al rojo vivo.
+@31B Una Une criada con sangre caliente.
+@31C Criatura espiritual cuyo brillo ilumina los cementerios oscuros.
+@31D La locura se apodera de todo el que oye su grito.
+@31E Una figura humana hecha con partes de cadáveres. Animada por la magia.
+@31F Una criatura que se mueve a gran velocidad. Invisible a simple vista.
+@320 Esqueleto espadachín de gran defensa.
+@321 Las patadas voladoras son la especialidad de este esqueleto.
+@322 Practica su gancho para poder vencer al Hombre jaguar.
+@323 Un manto maligno que ataca a los humanos.
+@324 El espíritu maligno de un hombre que se ahogó en un pantano.
+@325 Un monstruo grotesco con alas de murciélago.
+@326 Un Minotauro rojo que se hizo más fuerte en un viaje al infierno.
+@327 Esqueleto mago cuyos poderes vienen del agujero que tiene en la cabeza.
+@328 Su espíritu vengativo posee una espada flotante.
+@329 Engendro infernal de garras venenosas.
+@32A Un esqueleto enorme sin piernas que se arrastra por el suelo.
+@32B Aunque está muerto, este jinete aún busca batallas.
+@32C Un demonio que otorga astucia.
+@32D Esta belleza seductora es en realidad una pesadilla disfrazada.
+@32E Adopta la forma de un tesoro y espera en silencio a su presa.
+@32F Un búho anciano y sabio.
+@330 La diosa de la venganza.
+@331 Un esbirro del infierno siempre enojado. Le falta calcio en la dieta.
+@332 Cría de un lagarto y un ave. Su mirada puede convertirte en piedra.
+@333 Una figura humana de hierro animada por la magia. Durísima.
+@334 Este rey oscuro gobierna a casi todos los demonios.
+@335 Elegido especialmente para defender zonas importantes del castillo.
+@336 Un demonio nacido de las llamas del infierno.
+@337 Este fuerte caballero vendió su alma al Diablo.
+@338 Este demonio colecciona las cabezas cortadas de sus víctimas.
+@339 El confidente de Drácula.
+@33A Es muchos, es uno.
+@33B Demonio de mirada aterradora.
+@33C El cazavampiros más poderoso. Hace poco recuperó la memoria.
+@33D Un misionero descarriado. Se cree Drácula.
+@33E La raíz de todo lo caótico.
+
+# ------------------------------------------------------------------ Menús
+@34A ¿Guardar?
+@34B= Sí{sp}
+@34C= Sí{sp}
+@34D= {sp}No{sp}
+@350 No equipar nada.
+@351 Nada equipado.
+@352 Pulsa SELECT para restaurar controles.
+@353 ¡Hay controles en conflicto!
+@354 Iniciar partida.
+@355 Copiar datos.
+@356 Borrar partida guardada.
+@357 Cambiar nombre.
+@358 Elige los datos que quieres copiar.
+@359 Elige dónde copiar los datos.
+@35A Elige la partida guardada que quieres borrar.
+@35B Empezar una partida nueva.
+@35C Cargar una partida guardada.
+@35D Elige los datos que quieres cambiar.
+@35F No se puede guardar ahora.
+@360 No se puede pausar ahora.
+@361 Primero guarda una vez en una sala de guardado.
+@362 Cambiar las almas equipadas.
+@363 Cambiar armas, armaduras y accesorios.
+@364 Ver o usar un objeto.
+@365 Activar o desactivar almas de habilidad.
+@366 Pausar el juego.
+@367 Ver los datos de los enemigos vencidos.
+@368 Ver los datos de los enemigos vencidos.
+@36A ¿Pausar?
+@36B Partida guardada.
+@372 ¡La transmisión se interrumpió!
+@373 Preparando la otra consola para la transferencia. Espera...
+@374 Transmitiendo el alma...
+@375 Intercambio completado.
+@376=
+¿Vale?
+               Sí             No
+@377 ¿Borrar esta partida?
+@378 ¿Borrar esta partida?
+@379 Copiar estos datos.
+@37A Copiar estos datos.
+@37B Sin datos.
+@37C Elige una partida guardada.
+@37D Pulsa {0F} + {0B} para activar.
+@37E Pulsa {0E} para activar.
+@37F Su efecto se activa al equiparla.
+@380 Jugar esta partida desde el principio con extras.
+@381 Cargar el guardado rápido. (Los datos de guardado rápido se borrarán.)
+@382 Cargando el guardado rápido.
+@383 Los datos de guardado rápido se borrarán.
+@384 ¿Seguro que quieres borrar este archivo?
+@385=
+Elige el nivel de dificultad.
+      NORMAL               DIFÍCIL
+@386 Error al guardar.
+@38B Empezar de nuevo con los datos {13} conservando objetos y almas.
+@38F No se puede copiar porque existen datos de guardado rápido.
+@390 MÚSICA
+@391 VOCES
+@392 SALIR
+@3B0 Introduce "JULIUS". Podrás empezar una partida con Julius.
+@3B1 BESTIARIO
+@3B2= ALMA              %
+@3B4 ¿Quieres comprar algo? Te haré un buen precio.
+@3B5 Si tienes algo de valor, te lo compro a un precio justo.
+@3B6 ¿Ya te vas?

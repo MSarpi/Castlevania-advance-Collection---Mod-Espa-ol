@@ -1,0 +1,875 @@
+# Aria of Sorrow - diálogos. Los comandos {..} se conservan del original:
+#   {03 xx} retrato   {07 xx} nombre   {05} esperar botón   {04} cambia personaje
+#   {09} sigue el mismo personaje   {02 01} avanza la escena
+# El texto se ajusta solo a 3 líneas por cuadro (si no cabe, se añade otro cuadro).
+
+@00B
+El año es 2035. Japón. Multitudes de espectadores se reúnen a la espera del primer eclipse total de sol del siglo veintiuno.
+{05}{09}Me llamo Soma Cruz y soy un estudiante de intercambio que cursa la secundaria en Japón.
+{05}{09}Vivo cerca del Santuario Hakuba, un antiguo santuario muy ligado a la mitología japonesa.
+{05}{09}Mina Hakuba, la única hija del encargado del santuario, es mi compañera de clase y mi amiga de la infancia.
+{05}{09}Me puse en camino al santuario para ver el eclipse con Mina. Pero, por alguna extraña razón, la escalera que sube hasta allí se me hizo más larga de lo normal, como si algo intentara impedirnos llegar.
+{05}{09}Cuando por fin logré cruzar el portal del santuario, mis sentidos empezaron a nublarse...
+{05}{09}{05}{09}{05}{09}El sol negro como la pez mantiene unida una oscuridad caótica, tratando de despertar a un alma dormida, como si buscara su otra mitad perdida...
+{05}{09}
+
+@00C
+{03 00}{07 01}Oh... Mmm...
+{05}{04}{03 01}{07 02}Mira, parece que ya vuelve en sí.
+{05}{04}{03 00}{07 01}¿Dónde estoy...?
+{05}{09}{03 00}{07 01}¡AAH! ¿Qué... qué pasó?
+{05}{04}{03 02}{07 07}Así que has decidido unirte a nosotros... ¿Tuviste una siesta agradable?
+{05}{04}{02 01}{03 00}{07 01}¿Eh? ¿Y tú quién diablos eres?
+{05}{04}{03 01}{07 02}Tranquilo, Soma. Se llama Genya Arikado...
+{05}{04}{03 02}{07 03}Ahórrate las presentaciones. Tengo unas preguntas y necesito respuestas ya.
+{05}{04}{03 00}{07 01}A... adelante...
+{05}{04}{03 02}{07 03}¿Por qué has venido aquí?
+{05}{04}{03 00}{07 01}¿Por qué? Pues, Mina y yo... Un momento, ¿dónde estamos?
+{05}{04}{03 02}{07 03}Estamos en el castillo de Drácula.
+{05}{04}{03 00}{07 01}¿Eh? ¿El castillo de Drácula? ¿Me estás diciendo que estamos en Europa?
+{05}{04}{03 02}{07 03}No. Estamos dentro del eclipse solar.
+{05}{04}{03 00}{07 01}¡¿Dentro del eclipse?! ¡Estás loco! ¡¿Me tomas por tonto?!
+{05}{04}{03 01}{07 02}¡Soma! Escúchalo, ¡te está diciendo la verdad!
+{05}{04}{03 00}{07 01}¿De qué diablos están hablando? ¡Explíquenmelo!
+{05}{04}{03 02}{07 03}Verás, lo que ocurre es...
+{05}{09}¡¿Eh?! ¡Un enemigo!
+{02 01}{05}{04}{02 01}{03 02}{07 03}¡Maldición! ¡Protege a la chica!
+{05}{04}{03 00}{07 01}¡Yaaaaaaah! ¡Vuelve por donde viniste!
+{05}{04}{02 01}{03 00}{07 01}¿Qué... qué era esa cosa?
+{05}{04}{03 02}{07 03}Así que ha despertado.
+{05}{04}{02 01}{03 00}{07 01}¿Qué? ¿Qué ha despertado?
+{05}{04}{03 02}{07 03}El espíritu de la criatura que mataste acaba de entrar en tu cuerpo.
+{05}{09}Tienes el poder de absorber las habilidades de los monstruos que matas.
+{05}{04}{03 00}{07 01}¿Por... por qué... por qué tendría yo ese poder...?
+{05}{04}{03 02}{07 03}Has obtenido el poder. Ahora debes ir a la cámara del Amo.
+{05}{04}{03 00}{07 01}¿Para qué?
+{05}{04}{03 02}{07 03}¿Acaso no deseas volver a tu mundo con tu amiga?
+{05}{04}{03 00}{07 01}Claro que quiero volver.
+{05}{04}{03 02}{07 03}Ve a la cámara del Amo. Entonces lo entenderás todo.
+{05}{04}{03 00}{07 01}Pero no puedo dejar a Mina aquí así como así.
+{05}{04}{03 02}{07 03}No te preocupes por ella. Levantaré una barrera protectora.
+{05}{09}Pero la muerte alcanzará sin duda a quien se quede aquí demasiado tiempo.
+{05}{04}{03 00}{07 01}En... entonces yo...
+{05}{04}{03 02}{07 03}Sí. Solo tú puedes salvarla de una muerte dolorosa.
+{05}{04}{03 00}{07 01}¿Y tú? ¿Qué vas a hacer?
+{05}{04}{03 02}{07 03}Yo también tengo cosas que hacer entre los muros de este castillo.
+{05}{09}{02 01}Ve. ¡En marcha! Tu vida y la de ella están en juego.
+{05}{04}{02 01}{05}{04}
+
+@00D
+{03 01}{07 02}......
+{05}{04}
+
+@00E
+{03 02}{07 03}Ve. ¡En marcha! Tu vida y la de ella están en juego.
+{05}{04}
+
+@00F
+{03 03}{07 07}¿Oh? Hola.
+{05}{04}{03 00}{07 01}Eh, h-hola. E-eres humano, ¿verdad?
+{05}{04}{03 03}{07 04}Tranquilo. Me llamo Graham. Digamos que... soy un misionero.
+{05}{04}{03 00}{07 01}Ah... yo soy... Soma, Soma Cruz.
+{05}{04}{03 03}{07 04}Tú no estabas antes en este santuario, ¿verdad? ¿Cómo llegaste aquí?
+{05}{04}{03 00}{07 01}No estoy seguro. Crucé el portal del santuario... y ¡PUM!, aparecí aquí.
+{05}{04}{03 03}{07 04}Ya veo...
+{05}{04}{03 00}{07 01}Eh, ¿puedo hacerte una pregunta?
+{05}{04}{03 03}{07 04}Adelante, no me molesta.
+{05}{04}{03 00}{07 01}¿Es cierto que este es el castillo de Drácula?
+{05}{04}{03 03}{07 04}Sin la menor duda.
+{05}{04}{03 00}{07 01}Pero ¿el castillo de Drácula no está en algún lugar de Europa?
+{05}{04}{03 03}{07 04}En teoría, sí. Pero su VERDADERO castillo existe en otro lugar.
+{05}{04}{03 00}{07 01}¿Su verdadero castillo?
+{05}{04}{03 03}{07 04}Sí. Es algo bien sabido en el inframundo. ¿Crees en los vampiros?
+{05}{04}{03 00}{07 01}Pues, eh, no. La verdad, pensaba que la historia de Drácula era inventada.
+{05}{04}{03 03}{07 04}No, todo es cierto. Se filtró al mundo exterior.
+{05}{09}Normalmente la Iglesia se ocupa de estas cosas con el máximo secreto...
+{05}{09}A lo largo del tiempo, Drácula ha resucitado muchas veces...
+{05}{09}cuando la gente perdía la fe... y ansiaba el caos y la destrucción...
+{05}{04}{03 00}{07 01}Entonces... ¿intentas decirme que Drácula ha resucitado?
+{05}{04}{03 03}{07 04}No. Drácula pereció en 1999.
+{05}{09}Conoces la profecía de 1999, ¿no?
+{05}{04}{03 00}{07 01}¿La gran profecía de Nostradamus...?
+{05}{04}{03 03}{07 04}Así es. Drácula resucitó exactamente como él predijo.
+{05}{09}Pero los cazavampiros lo destruyeron por completo.
+{05}{09}Pusieron fin a su ciclo de regeneración sellando su castillo...
+{05}{09}el símbolo de su poder demoníaco, en la oscuridad de un eclipse.
+{05}{04}{03 00}{07 01}¿Y ese eclipse es donde estamos ahora...?
+{05}{04}{03 03}{07 04}Sí, pero la historia no acaba ahí...
+{05}{04}{03 00}{07 01}¿Hay más?
+{05}{04}{03 03}{07 04}"En el año 2035, un nuevo amo llegará al castillo, y él...
+{05}{09}heredará TODOS los poderes de Drácula".
+{05}{04}{03 00}{07 01}¡Pero eso es...!
+{05}{04}{03 03}{07 04}Sí. ¡Ese momento es ahora! Más vale que me vaya... ¿Eso es todo?
+{05}{04}{03 00}{07 01}Ah, sí. Gracias.
+{05}{04}{03 03}{07 04}Adiós, y ten cuidado.
+{05}{04}{03 00}{07 01}Sí, tú también.
+{05}{04}{02 01}{05}{04}
+
+@010
+{03 04}{07 07}Oye, tú eres... Soma, ¿verdad? Tienes que ser él.
+{05}{04}{03 00}{07 01}S-sí, pero... ¿Quién eres tú...?
+{05}{04}{03 04}{07 05}Oh, perdona. Soy Yoko Belnades. Soy miembro de la Iglesia.
+{05}{09}{03 00}{07 01}¿Y cómo es que alguien de la Iglesia me reconoce?
+{05}{04}{03 04}{07 05}Ya conociste a Aluca... eh, digo, a Genya... Arikado, ¿verdad?
+{05}{04}{03 00}{07 01}Sí lo conocí, pero...
+{05}{04}{03 04}{07 05}Él me habló de ti y me pidió que te ayudara si estabas en apuros.
+{05}{04}{03 00}{07 01}¿Arikado dijo eso? Cuesta creerlo.
+{05}{04}{03 04}{07 05}Bueno, al principio parece frío, pero en realidad es un buen tipo.
+{05}{09}Quizá vela por ti porque compartes sus mismos poderes oscuros.
+{05}{04}{03 00}{07 01}¡Espera, espera! ¿Dijiste que mis poderes son "oscuros"?
+{05}{04}{03 04}{07 05}Oh, ¡¿quieres decir que no lo sabías?!
+{05}{04}{03 00}{07 01}Ehh...
+{05}{04}{03 04}{07 05}Ay, no... ¿dije algo que...? Yo... bueno... lo dicho, dicho está.
+{05}{09}En esencia, tienes el poder de dominar y dar órdenes a los monstruos.
+{05}{04}{03 00}{07 01}¿Dominar a los monstruos? No tengo ningún deseo de hacer eso...
+{05}{04}{03 04}{07 05}Para ti es tan natural como respirar, así que quizá aún no te das cuenta.
+{05}{09}Y aunque lo llamé "poder oscuro", eso no significa que sea maligno.
+{05}{09}Es como un arma. Quien la usa decide si la emplea para el bien o para el mal.
+{05}{04}{03 00}{07 01}Bueno, si lo pones así, me siento un poco mejor.
+{05}{09}Desde que obtuve este poder, he empezado a perder la noción de quién soy.
+{05}{04}{03 04}{07 05}Tú eres tú. No podrías ser nadie más.
+{05}{09}No dudes de ti mismo. Ten confianza. Eso es lo más importante.
+{05}{04}{03 00}{07 01}Creo que ya lo entiendo. Gracias, Yoko.
+{05}{04}{03 04}{07 05}(risita) No estoy acostumbrada a que me den las gracias...
+{05}{09}Ah, olvidé preguntarte. ¿Has visto a un hombre llamado Graham?
+{05}{04}{03 00}{07 01}¿Graham? Sí, lo conocí hace un rato.
+{05}{04}{03 04}{07 05}Ten cuidado con ese hombre. Creo que heredará los poderes de Drácula.
+{05}{04}{03 00}{07 01}¡No puede ser! No parecía un mal tipo.
+{05}{04}{03 04}{07 05}¡Claro, y yo soy la reina de Inglaterra!
+{05}{09}¡No te dejes engañar por su apariencia! No es quien tú crees.
+{05}{04}{03 00}{07 01}Es... está bien.
+{05}{04}{03 04}{07 05}Bueno, debo irme. ¡Tengo que encontrar a Graham!
+{05}{09}¡Nos vemos!
+{05}{04}{02 01}{05}{04}
+
+@011
+{03 05}{07 07}Qué extraño... Percibo un poder oscuro en ti... ¿Quién eres?
+{05}{04}{03 00}{07 01}Es de mala educación hacer preguntas antes de presentarse.
+{05}{04}{03 05}{07 06}Sí, tienes razón. No puedo darte mi nombre, pero la gente me llama J.
+{05}{04}{03 00}{07 01}¿Te llaman "J"? ¿Por qué ocultas tu verdadero nombre? ¿Eres un criminal?
+{05}{04}{03 05}{07 06}No. Tengo amnesia. Me dijeron que sufrí un accidente en 1999.
+{05}{09}Cuando desperté en el hospital, había olvidado mi nombre y mi pasado.
+{05}{04}{03 00}{07 01}Ah, ya veo... Bueno, yo me llamo Soma.
+{05}{04}{03 05}{07 06}Ese poder oscuro tuyo... ¿Naciste con él?
+{05}{04}{03 00}{07 01}En realidad no lo sé. Lo noté por primera vez al entrar en este castillo...
+{05}{04}{03 05}{07 06}Ya veo... Supongo que me equivoqué.
+{05}{04}{03 00}{07 01}Señor J, ¿por qué vino a este castillo?
+{05}{04}{03 05}{07 06}Llámame J. Me invade el miedo cuando oigo el nombre de Drácula.
+{05}{09}Vine aquí por la profecía. También pensé que podría recuperar la memoria.
+{05}{09}De hecho, desde que llegué siento que mis recuerdos están volviendo.
+{05}{04}{03 00}{07 01}Y tu accidente ocurrió en 1999... ¿Quizá Drácula tuvo algo que ver...?
+{05}{04}{03 05}{07 06}Me temo que tienes razón... Sobre todo porque tengo poderes mágicos...
+{05}{04}{03 00}{07 01}J, ¿eres un exorcista?
+{05}{04}{03 05}{07 06}Bueno, podría decirse. Pero no trabajo para nadie más que para mí.
+{05}{09}Debo irme ya. Estoy seguro de que volveremos a vernos.
+{05}{04}{03 00}{07 01}Sí, nos vemos...
+{05}{04}{02 01}{05}{04}
+
+@012
+{03 03}{07 04}¡Volvemos a vernos! Me alegra ver que estás ileso.
+{05}{04}{03 00}{07 01}A mí también me alegra verte. Eh... hay algo que quiero preguntarte.
+{05}{04}{03 03}{07 04}Claro, adelante.
+{05}{04}{03 00}{07 01}Alguien me dijo que TÚ vas a heredar los poderes de Drácula...
+{05}{04}{03 03}{07 04}Supongo que te lo dijo esa dama de la Iglesia, ¿no es así?
+{05}{04}{03 00}{07 01}No es cierto, ¿verdad?
+{05}{04}{03 03}{07 04}El término "heredar" es incorrecto.
+{05}{04}{03 00}{07 01}¡Entonces es cierto!
+{05}{04}{03 03}{07 04}Yo nací el mismo día en que Drácula fue destruido...
+{05}{09}Así que, en resumen, ¡eso significa que yo SOY Drácula!
+{05}{04}{03 00}{07 01}¡¿Eso no puede ser?! ¡Has sido tan amable y amistoso conmigo!
+{05}{04}{03 03}{07 04}Eso es porque no te considero una amenaza para mi misión.
+{05}{09}Pero, dicho esto, has llegado hasta aquí... Percibo un poder en ti.
+{05}{09}Dime... ¿qué clase de poder ha despertado dentro de ti?
+{05}{04}{03 00}{07 01}......... El poder de dominar...
+{05}{04}{03 08}{07 04}¡¿QUÉ?! ¡Muchacho insensato! ¡Eso es imposible!
+{05}{04}{03 00}{07 01}¿Eh?
+{05}{04}{03 08}{07 04}No puedo quedarme aquí más tiempo. ¡Debo llegar al trono!
+{05}{09}Te llamas Soma, ¿no? ¡Te equivocas, Soma! ¡¡¡No permitiré que tú domines!!!
+{05}{04}{02 01}{03 00}{07 01}Caray. ¿Qué fue todo eso?
+{05}{04}{02 01}{05}{04}
+
+@013
+{03 04}{07 05}Hola, Soma.
+{02 01}{05}{04}{03 00}{07 01}Hola, Yoko. Acabo de toparme con Graham.
+{05}{04}{03 04}{07 05}¿EN SERIO? ¿Hacia dónde se fue?
+{05}{04}{03 00}{07 01}Tenía prisa por llegar al trono...
+{05}{04}{03 04}{07 05}Tal como pensaba. Hay algo importante en la Sala del Trono.
+{05}{04}{03 00}{07 01}Lo siento, Yoko.
+{05}{04}{03 04}{07 05}¿Qué... qué te pasa de repente?
+{05}{04}{03 00}{07 01}No es quien yo creía que era.
+{05}{09}Fue amable conmigo solo porque pensaba que yo no tenía poder.
+{05}{04}{03 04}{07 05}Ya veo...
+{05}{04}{03 00}{07 01}Pero su actitud cambió de golpe cuando le hablé de mi poder.
+{05}{04}{03 04}{07 05}Bueno, en su cabeza, cree que todo en este castillo es suyo...
+{05}{04}{03 00}{07 01}¿Así que es por eso?
+{05}{04}{03 04}{07 05}Pero es mejor así.
+{05}{04}{03 00}{07 01}¿El qué?
+{05}{04}{03 04}{07 05}Que ahora te vea como un enemigo significa que eres mi camarada.
+{05}{04}{03 00}{07 01}¿Ah, sí?
+{05}{04}{03 04}{07 05}¿Qué? ¿No quieres estar de mi lado?
+{05}{04}{03 00}{07 01}No, no quise decir eso...
+{05}{04}{03 04}{07 05}Ja, ja, ja. Es muy divertido tomarte el pelo.
+{05}{09}Pero no es momento de andar con bromas.
+{05}{09}Tu presencia aquí ha hecho entrar en pánico a Graham. Es nuestra oportunidad.
+{05}{04}{03 00}{07 01}¿Qué clase de oportunidad?
+{05}{04}{03 04}{07 05}Gracias a su astucia, ha logrado esquivarnos hasta ahora.
+{05}{09}No creo que nadie lo haya visto nunca entrar en pánico.
+{05}{04}{03 00}{07 01}Ya entiendo. Las circunstancias de ahora lo hacen actuar así...
+{05}{04}{03 04}{07 05}Exactamente. Es una ocasión excelente para atraparlo.
+{05}{09}Bueno, debo seguir mi camino. Nos vemos.
+{05}{04}{02 01}{05}{04}
+
+@014
+{03 00}{07 01}¡¿?!
+{05}{04}{02 01}{03 03}{07 04}¡Maldición! ¡Detesto que me interrumpan!
+{05}{04}{03 00}{07 01}¡¡YOKO!!
+{05}{04}{02 01}{03 00}{07 01}¿Estás bien? Si estás bien, ¡di algo! ¡¡Lo que sea!!
+{05}{04}{02 01}{03 04}{07 05}Es... estoy... bien. Gracias... por rescatarme.
+{05}{04}{03 00}{07 01}¡Graham, ese desgraciado! ¡¿Qué ha hecho?!
+{05}{04}{03 04}{07 05}Ha... absorbido el poder de este castillo... y se ha vuelto mucho más fuerte.
+{05}{09}Ay, aaah... Mi plan ha... fracasado...
+{05}{04}{03 00}{07 01}¡Guarda tus fuerzas! ¡No hace falta que hables!
+{05}{04}{03 04}{07 05}Ten... cuidado con él... Pero n-no... te exijas... demasiado...
+{05}{04}{02 01}{03 00}{07 01}¡¿Qué?! ¡¡¡YOKO!!! Ah, solo está inconsciente... Todavía respira.
+{05}{04}{02 01}{03 02}{07 03}Subestimé la cantidad de poder que había adquirido...
+{05}{04}{02 01}{03 00}{07 01}¡No te quedes ahí murmurando! ¡Yoko está muy mal!
+{05}{04}{03 02}{07 03}¡Vete! Yo me ocuparé de sus heridas.
+{05}{04}{03 00}{07 01}¡No puedo dejarla así! ¡Es mi amiga!
+{05}{04}{03 02}{07 03}No te preocupes por ella. Creo que hay otras cosas que debes hacer.
+{05}{04}{03 00}{07 01}Graham fue al trono. ¿Qué hay allí? ¡¿Qué me estás ocultando?!
+{05}{04}{03 02}{07 03}No puedo decirlo. Debes ir allí tú mismo. Y si no lo haces...
+{05}{09}perderás a Mina... ¡y también a Yoko! ¡Su destino está en tus manos!
+{05}{04}{03 00}{07 01}¡Maldito seas! No... no me gusta tu actitud, pero no creo que mientas.
+{05}{09}Siento que me están manipulando. No me gusta, pero haré lo que dices.
+{05}{09}Pero si alguna vez salimos vivos de este castillo, quiero saberlo todo.
+{05}{04}{03 02}{07 03}Me parece justo. Ahora sigue tu camino.
+{05}{04}
+
+@015
+{03 05}{07 06}Ohhh...
+{05}{04}{03 00}{07 01}J, ¿qué te pasa? Estás pálido.
+{05}{04}{03 05}{07 06}N-no te preocupes... es que ahora... todos mis recuerdos volvieron de golpe.
+{05}{04}{03 00}{07 01}¡¿Qué?!
+{05}{04}{02 01}{03 05}{07 06}Parece que tu poder oscuro provocó el regreso de mis recuerdos.
+{05}{09}Tal como suponía... Tengo una historia bastante larga con Drácula.
+{05}{04}{03 00}{07 01}Eso pensé...
+{05}{04}{03 05}{07 08}Mi verdadero nombre es Julius Belmont...
+{05}{09}Soy descendiente de un clan que ha luchado contra Drácula durante siglos.
+{05}{04}{03 00}{07 01}Y la persona que destruyó a Drácula en 1999 fue...
+{05}{04}{03 05}{07 08}Sí. Fui yo... pero hubo otros que me ayudaron...
+{05}{04}{03 00}{07 01}Entonces, si Drácula revive otra vez, tal como dice la profecía...
+{05}{04}{03 05}{07 08}¡Entonces debo destruirlo! Es mi destino.
+{05}{04}{03 00}{07 01}Aún no has conocido a un hombre llamado Graham, ¿verdad?
+{05}{04}{03 05}{07 08}¿Graham? Ah, te refieres a ese misionero, ¿no?
+{05}{09}Me lo encontré hace poco. Pero cuando vio mi cara, dio media vuelta y huyó.
+{05}{04}{03 00}{07 01}Me dijo que él era Drácula.
+{05}{04}{03 05}{07 08}Sí percibí los poderes de Drácula obrando en él...
+{05}{09}pero cuesta creer que él sea Drácula... más bien...
+{05}{09}Creo que... No, olvídalo. No es más que una corazonada.
+{05}{04}{03 00}{07 01}¿Eh?
+{05}{04}{03 05}{07 08}Suponiendo que sea Drácula, todavía no podré matarlo.
+{05}{04}{03 00}{07 01}¿Por qué no?
+{05}{04}{03 05}{07 08}Necesito mi arma.
+{05}{04}{03 00}{07 01}¿Tu arma?
+{05}{04}{03 05}{07 08}Sí. Es un látigo que heredé. Se llama "Matavampiros".
+{05}{09}En 1999 lo sellé en este castillo para debilitar su espíritu y sus poderes mágicos.
+{05}{04}{03 00}{07 01}¿Eso quiere decir que está en algún lugar de este castillo?
+{05}{04}{03 05}{07 08}Sí. Y sé exactamente dónde está. Iré a buscarlo ahora.
+{05}{04}{03 00}{07 01}De acuerdo. Ten cuidado, por favor.
+{05}{04}{03 05}{07 08}Reza por que mi corazonada resulte equivocada. Adiós por ahora.
+{05}{04}{02 01}{05}{04}
+
+@016
+{03 03}{07 04}¡Llegas tarde, Soma! El poder de Drácula ya está en mis manos.
+{05}{04}{02 01}{03 00}{07 01}¡El poder de Drácula no me interesa!
+{05}{09}Vine aquí a buscar una salida de este castillo.
+{05}{04}{03 03}{07 04}Con mis nuevas habilidades, puedo sacarte de aquí muy fácilmente...
+{05}{09}Tú, sin embargo, tienes en tu poder algo que me pertenece.
+{05}{09}Las almas de MIS demonios están bajo TU control.
+{05}{04}{03 08}{07 04}¿Puedo perdonar semejante crimen? ¡NO! ¡JAMÁS!
+{05}{04}{03 00}{07 01}¡Si supiera cómo, te las devolvería todas aquí y ahora!
+{05}{04}{03 08}{07 04}Aunque las devuelvas, ya has cometido el crimen de robar.
+{05}{09}¿No lo sabías?
+{05}{09}Es justo que los ladrones reciban el castigo que merecen.
+{05}{04}{03 00}{07 01}¡Eres un desgraciado egoísta!
+{05}{04}{03 08}{07 04}Eres culpable de robo mayor. Por lo tanto, ¡te sentencio a muerte!
+{05}{04}{03 00}{07 01}¡Estás loco!
+{05}{04}{03 08}{07 04}Y, como regalo especial, ¡yo mismo ejecutaré el castigo!
+{05}{04}
+
+@017
+{03 03}{07 04}No puedo creerlo...
+{05}{09}Todavía no he perdido... Aún no tienes el poder de Drácula.
+{05}{09}¡Ya verás!
+{05}{04}
+
+@018
+{03 08}{07 04}E... eso no... ¡¡¡NOOO!!!
+{05}{04}
+
+@019
+{03 00}{07 01}Los poderes mágicos que absorbió lo han abandonado.
+{05}{04}{02 01}{03 02}{07 03}¡El castillo está débil ahora! ¡El portal a tu mundo debería estar abriéndose!
+{05}{04}{03 00}{07 01}¿Y qué debo hacer?
+{05}{04}{03 02}{07 03}¡Ordena al castillo que abra el portal! Ha sentido tu poder y puede que obedezca.
+{05}{04}{03 00}{07 01}Está bien. Lo intentaré. Te ordeno... ¡que te abras!
+{05}{09}{02 01}¡Devuélvenos a todos los seres vivos al lugar de donde vinimos!
+{05}{04}{02 01}{03 02}{07 03}......
+{05}{04}{03 00}{07 01}...... ¿No pasó nada...?
+{05}{04}{02 01}{03 02}{07 03}Te equivocas. El tejido del espacio empieza a rasgarse...
+{05}{04}
+
+@01A
+{03 08}{07 04}No puedo creerlo... ¿Cómo llegaste TÚ a poseer esos poderes?
+{05}{04}{03 00}{07 01}¿Qué quieres decir con "esos poderes"?
+{05}{04}{03 08}{07 04}Yo soy Drácula. ¡Y tú no eres el elegido!
+{05}{04}
+
+@01B
+{03 08}{07 04}¡Nooo! ¡¡¡Esto no puede ser!!! ¡¿Significa que yo no soy Drácula?!
+{05}{04}
+
+@01C
+{03 00}{07 01}¿Qué... qué es esto?
+{05}{04}{02 01}{03 00}{07 01}Aah, algo está... ¡entrando en mí!
+{05}{09}{02 01}¡NO, ESPERA!
+{05}{09}¡POR FAVOR... BASTA!
+{05}{09}¡NOOOOOOO!
+{05}{04}{02 01}{03 07}{07 01}Por fin... lo entiendo... todo con claridad. Yo soy... Drácula.
+{05}{09}Esto parece una broma de mal gusto. Sal de ahí, Arikado. Sé que estás aquí.
+{05}{04}{02 01}{03 07}{07 01}¡¿Por qué me obligaste a despertar?! Estaba bien tal como era.
+{05}{04}{02 01}{03 02}{07 03}Sí, para empezar, no debías haber venido a este castillo.
+{05}{04}{03 07}{07 01}¡¿Entonces por qué me hiciste venir aquí?!
+{05}{04}{03 02}{07 03}Tu alma y los poderes mágicos de Drácula son una misma cosa.
+{05}{09}Hiciéramos lo que hiciéramos, este día estaba destinado a llegar.
+{05}{09}Siendo así, decidí despertarte en un lugar donde pudiera usar MIS poderes.
+{05}{04}{03 07}{07 01}¿Eh? ¿Qué quieres decir? No lo entiendo.
+{05}{04}{03 02}{07 03}Como ahora eres uno con él, un espíritu maligno debe de estar fluyendo hacia ti.
+{05}{04}{03 07}{07 01}Sí. Empezó hace poco, y me va llenando lentamente...
+{05}{09}Hago todo lo que puedo para que no me consuma.
+{05}{04}{03 02}{07 03}Cuando termines de absorberlo todo, sus poderes serán tuyos.
+{05}{09}Entonces te convertirás en el conde maligno... ¡No quiero permitir que eso ocurra!
+{05}{04}{03 07}{07 01}¡Yo tampoco!
+{05}{04}{03 02}{07 03}Lo sé. Por eso elegí el camino peligroso.
+{05}{04}{03 07}{07 01}¿El camino peligroso?
+{05}{04}{03 02}{07 03}La maldad de este espíritu proviene de quienes buscan el caos y la destrucción.
+{05}{09}Así que debemos cortar la fuente del caos que influye en el espíritu.
+{05}{04}{03 07}{07 01}¿Eso es posible?
+{05}{04}{03 02}{07 03}Este castillo es producto de la magia de Drácula. Es un mundo espiritual.
+{05}{09}Lo que quiero decir es... que dentro de este castillo también existe una corriente de caos.
+{05}{09}Hay un lugar al que solo tú, Drácula, puedes ir. ¡Ahí es donde está el caos!
+{05}{04}{03 07}{07 01}Iré, no tengo miedo... pero ¿qué hago cuando llegue?
+{05}{04}{03 02}{07 03}Tendrás que detenerlo con tus propias fuerzas.
+{05}{09}Ya lograste llegar al trono. Estoy seguro de que puedes hacerlo.
+{05}{04}{03 07}{07 01}Si con eso vuelvo a ser yo mismo, haré lo que haga falta.
+{05}{04}{02 01}{03 02}{07 03}Mientras mis poderes sigan actuando sobre este lugar, el flujo del
+{05}{09}espíritu maligno hacia ti se hará más lento. ¡Date prisa!
+{05}{04}{03 07}{07 01}Ya voy... Te agradezco la ayuda...
+{05}{04}
+
+@01D
+{03 02}{07 03}Hay un lugar al que solo tú, Drácula, puedes ir. ¡Ahí es donde está el caos!
+{05}{04}
+
+@01E
+{03 02}{07 03}¡¡VETE YA!!
+{05}{04}
+
+@01F
+{03 05}{07 08}¡Alto!
+{05}{04}{02 01}{03 07}{07 01}¿Julius?
+{05}{04}{03 05}{07 08}Así que eras tú. No quería creer que fuera cierto...
+{05}{04}{03 07}{07 01}Es cierto. Soy Drácula. ¡Pero no soy lo que tú crees!
+{05}{04}{03 05}{07 08}Debo destruir a Drácula a cualquier precio. Ese es mi destino.
+{05}{04}{03 07}{07 01}¡NO, ESPERA! No quiero luchar contra ti.
+{05}{04}{03 05}{07 08}¡Nada de lo que digas me detendrá! ¡Prepárate a morir!
+{05}{04}
+
+@020
+{03 07}{07 01}¡BASTA! ¡YA TUVE SUFICIENTE!
+{05}{04}{03 05}{07 08}¿Por... por qué...? ¿Por qué no acabas conmigo?
+{05}{04}{03 07}{07 01}Te contuviste conmigo. Lo noté. La fuerza de un Belmont...
+{05}{09}No... la fuerza de un cazavampiros es mayor que esta.
+{05}{04}{03 05}{07 08}.......
+{05}{09}Cuando luché contigo, sentí el espíritu maligno en tu interior. Pero hay más...
+{05}{09}También percibí el espíritu de Soma. Y eso es más que suficiente para detenerme.
+{05}{04}{03 07}{07 01}.......... Tengo un favor que pedirte.
+{05}{04}{03 05}{07 08}¿De qué se trata?
+{05}{04}{03 07}{07 01}Desde aquí partiré a luchar contra mi propio destino.
+{05}{09}Si pierdo la batalla... y me convierto en la reencarnación del mal,
+{05}{09}quiero que me mates.
+{05}{04}{03 05}{07 08}........ Lo haré... Lo prometo.
+{05}{04}{03 07}{07 01}Gracias... ahora puedo ir a esta batalla sin reservas.
+{05}{04}{03 05}{07 08}Adiós, amigo mío. No me obligues a usar ese látigo otra vez.
+{05}{04}
+
+@022
+{03 07}{07 01}Por fin estoy aquí... Me pregunto si podré hacer esto solo...
+{05}{04}{02 01}{03 01}{07 02}No estás solo.
+{05}{04}{03 07}{07 01}¿Qué... qué?
+{05}{04}{03 01}{07 02}Todos los que quedan en el castillo unieron sus poderes para contactarte.
+{05}{04}{03 07}{07 01}¿Eso significa que todos saben... que soy Drácula?
+{05}{04}{03 01}{07 02}Sí... Arikado nos lo contó todo...
+{05}{04}{03 07}{07 01}Seguro que todos me tienen miedo...
+{05}{04}{03 01}{07 02}¡No, para nada!
+{05}{09}Al principio nos quedamos impactados, pero todos creen que superarás esto.
+{05}{09}Ahora voy a enviarte un mensaje de parte de ellos. Escucha...
+{05}{04}{03 06}{07 09}Volverás a pasar por mi tienda, ¿verdad? Te estaré esperando.
+{05}{04}{03 04}{07 05}Buenos días, Soma. Acabo de enterarme de lo que te pasó...
+{05}{09}Ya te lo dije antes... Tú eres quien eres, y no debes dejar que él gane.
+{05}{04}{03 05}{07 08}Al hombre que me venció... no me decepciones ahora.
+{05}{04}{03 02}{07 03}Esta es tu última oportunidad, y también la nuestra.
+{05}{09}...
+{05}{09}Cuento contigo...
+{05}{04}{03 07}{07 01}Todos están... apoyándome...
+{05}{04}{03 01}{07 02}...
+{05}{09}Tú puedes hacerlo... porque yo creo en ti.
+{05}{04}{03 07}{07 01}Mina...
+{05}{09}¡Muy bien, allá voy!
+{05}{04}
+
+@023
+{03 00}{07 01}¿Hemos vuelto?
+{05}{04}{03 01}{07 02}Sí, no hay duda. Llegamos a casa.
+{05}{04}{03 02}{07 03}Excelente... Lo has hecho bien.
+{05}{04}{03 00}{07 01}Oye, ¿qué pasó con los demás?
+{05}{04}{03 02}{07 03}No te preocupes por ellos. Llegarán muy pronto.
+{05}{04}{03 00}{07 01}Y el castillo... ¿el castillo sigue en el eclipse?
+{05}{04}{03 02}{07 03}Sí. Aguarda la llegada de su nuevo amo.
+{05}{09}Algún día, alguien volverá a asumir la forma de Drácula.
+{05}{09}Cuándo llegará ese momento, no lo sé...
+{05}{04}{03 01}{07 02}¿Qué te pasa, Soma? Ya volvimos a casa. ¿Por qué esa cara triste?
+{05}{04}{03 00}{07 01}Siento como si el castillo todavía me estuviera llamando...
+{05}{09}¿Quizá el castillo sea el lugar al que de verdad pertenezco...?
+{05}{04}{03 02}{07 03}...
+{05}{04}{03 01}{07 02}Son imaginaciones tuyas. Acabamos de escapar de allí. Estás en casa...
+{05}{04}{03 00}{07 01}Sí, espero que solo sea mi imaginación...
+{05}{04}{03 02}{07 03}Si el castillo vuelve a convocarte alguna vez, podrás ocuparte de ello entonces.
+{05}{09}Por ahora, deberías descansar.
+{05}{04}{03 00}{07 01}Sí, tienes razón...
+{05}{04}{03 01}{07 02}Sí.
+{05}{04}
+
+@024
+{03 00}{07 01}Todo terminó...
+{05}{09}El espíritu maligno se está desvaneciendo...
+{05}{04}
+
+@025
+{03 04}{07 05}Hola, Soma. Felicidades.
+{05}{09}Tengo otro trabajo que atender, así que debo irme ya.
+{05}{09}Cuando supe que TÚ eras Drácula, me quedé de piedra...
+{05}{09}Además, yo apenas estaba despertando, ¿sabes?
+{05}{09}Aunque, si lo piensas, todo salió bien. Ja, ja, ja...
+{05}{09}... Nunca olvidaré tu fuerza y tu valor.
+{05}{09}Y aún no te he dado las gracias por rescatarme. Así que... gracias.
+{05}{09}Eres como un hermano menor para mí. Fue divertido, y espero que volvamos a vernos.
+{05}{09}Adiós.
+{05}{04}{03 06}{07 09}¡Eh, hola! Muy agradecido por tus compras en mi tienda.
+{05}{09}Allá en el castillo descubrí mi verdadera vocación. Pelear no es lo mío.
+{05}{09}Creo que dejaré el ejército y abriré una tienda pronto.
+{05}{09}Prométeme que vendrás. Te haré un buen precio.
+{05}{04}{03 05}{07 08}Luchaste bien.
+{05}{09}Cuando huimos del castillo, sentí que el poder del Matavampiros se desvanecía.
+{05}{09}No sé qué significa eso. Pero por ahora no tendré que hacer nada.
+{05}{09}Adiós. Ojalá volvamos a vernos.
+{05}{04}{03 02}{07 03}El camino que tomaste era el más difícil. Lo hiciste bien.
+{05}{09}Para que Dios sea bueno, el mal es absolutamente necesario en este mundo.
+{05}{09}En el futuro, puede que alguien vuelva a seguir los oscuros pasos de Drácula.
+{05}{09}Llegado ese momento, quizá volvamos a vernos. Adiós...
+{05}{09}En nombre de mi madre, te doy las gracias.
+{05}{04}{02 01}{03 01}{07 02}... Despierta... Despierta... Despier...
+{05}{04}
+
+@026
+{03 01}{07 02}Despierta... Despierta, Soma.
+{05}{04}{03 00}{07 01}Uh, ungh...
+{05}{04}{03 01}{07 02}¡Soma! ¡Ay, gracias a Dios!
+{05}{09}Estaba tan preocupada por ti...
+{05}{09}Arikado me dijo que estarías bien, pero yo estaba preocupada. Pensé que nunca ibas a despertar.
+{05}{04}{02 01}{03 00}{07 01}Escuché las voces de todos...
+{05}{09}Me salvaste la vida... ¡otra vez!
+{05}{04}{03 01}{07 02}¿OTRA VEZ?
+{05}{04}{03 00}{07 01}Sí... No habría podido ganar la última batalla yo solo.
+{05}{09}Las palabras amables y el ánimo de todos me llevaron a la victoria...
+{05}{04}{03 01}{07 02}Me alegra tanto que lo que viviste no te haya cambiado.
+{05}{04}{03 00}{07 01}Pero SÍ me cambió...
+{05}{04}{03 01}{07 02}¿En qué sentido?
+{05}{04}{03 00}{07 01}¡Ahora soy mucho más genial!
+{05}{04}{03 01}{07 02}Sí... SÍ que has cambiado. El Soma de antes nunca habría dicho eso.
+{05}{04}{03 00}{07 01}Recuerda que, dentro de mí, el poder de Drácula yace dormido.
+{05}{09}Puede que ya no sea maligno, pero sin duda me ha cambiado.
+{05}{04}{03 01}{07 02}No pasa nada. Si alguna vez vuelve a ocurrir algo, todos correrán a ayudarte.
+{05}{04}{02 01}{03 00}{07 01}Es verdad. Supongo que sí. Mira, ¡el eclipse ha terminado!
+{05}{09}Tus palabras amables me dieron la fuerza para ganar... Gracias...
+{05}{04}
+
+@027
+{03 01}{07 02}Despierta... Despierta, Soma.
+{05}{04}{03 00}{07 01}Uh, ungh...
+{05}{04}{03 01}{07 02}¡Soma!
+{05}{09}Gracias a Dios, despertaste.
+{05}{04}{02 01}{03 00}{07 01}Los oí hablar. Todos ustedes me salvaron otra vez.
+{05}{04}{03 01}{07 02}¿Otra vez?
+{05}{04}{03 00}{07 01}Sí... No habría podido ganar la última batalla yo solo.
+{05}{09}Las palabras amables y el ánimo de todos me llevaron a la victoria...
+{05}{04}{03 01}{07 02}Sí...
+{05}{04}{03 00}{07 01}Recuerda que, dentro de mí, el poder de Drácula yace dormido.
+{05}{09}No es maligno, pero... sin duda me ha cambiado.
+{05}{04}{03 01}{07 02}No pasa nada. Si alguna vez vuelve a ocurrir algo, todos correrán a ayudarte.
+{05}{04}{02 01}{03 00}{07 01}Es verdad. Supongo que sí. Mira, el eclipse ha terminado.
+{05}{04}
+
+@028
+{03 06}{07 07}¡Oh! ¿Qué hace un niño como tú en un lugar como este?
+{05}{04}{03 00}{07 01}¿Un niño? Qué grosero, abuelo.
+{05}{04}{03 06}{07 09}Uy, mis disculpas. Me llamo Hammer. El ejército me ordenó venir aquí.
+{05}{04}{03 00}{07 01}Hola. Yo soy Soma.
+{05}{04}{03 06}{07 09}Creía que iba a inspeccionar un santuario, pero de pronto estaba en un castillo.
+{05}{09}¿No te parece una mala jugada para hacerle a uno?
+{05}{09}Así que mandé a paseo mi misión.
+{05}{04}{03 00}{07 01}¿Qué quieres decir?
+{05}{04}{03 06}{07 09}Había un montón de gente extraña reunida en el santuario.
+{05}{09}Pensé que serían buenos clientes, así que abrí una tienda.
+{05}{04}{03 00}{07 01}Ahhh... Bien por ti...
+{05}{04}{03 06}{07 09}Hay armas por todo este castillo y ningún monstruo en la entrada principal.
+{05}{09}¡Buen lugar para una tienda! ¡Pásate por allí! Te haré un buen precio.
+{05}{09}¡Nos vemos! Ja, ja, ja, ja...
+{05}{04}{02 01}{03 00}{07 01}Una tienda, ¿eh? No lo entiendo...
+{05}{04}
+
+@029
+{03 06}{07 09}Hola, hola. Viniste.
+{05}{04}{03 00}{07 01}¿Aquí es donde abriste tu tienda?
+{05}{04}{03 06}{07 09}Sí, sí, aquí es. Por cierto, esa jovencita tan linda de allá...
+{05}{09}Te está mirando fijamente. ¿Es tu amiga?
+{05}{04}{03 00}{07 01}Sí...
+{05}{04}{03 06}{07 09}¡Vaya! No tenía idea de que fueras tan popular con las damas.
+{05}{04}{03 00}{07 01}¡O-oye, no es eso!
+{05}{04}{03 06}{07 09}No seas tímido, ¿me oyes? ¡Es bueno ser joven! ¡Es algo bueno!
+{05}{09}Bueno, volvamos al negocio... ¡Echa un vistazo, amigo!
+{05}{04}
+
+@02A
+{03 06}{07 09}¡Eh, bienvenido de nuevo! Por cierto, ¿conoces a Arikado?
+{05}{04}{03 00}{07 01}Sí, más o menos.
+{05}{04}{03 06}{07 09}¿Ese tipo raro también es amigo tuyo? Eres más popular de lo que
+{05}{09}pensaba. ¡No me gusta mucho la gente así! Y bien, ¿qué te vendo?
+{05}{04}
+
+@02B
+{03 06}{07 09}Oye, esa mujer de allá atrás... ¿está bien?
+{05}{04}{03 00}{07 01}No lo sé. Está herida de gravedad...
+{05}{04}{03 06}{07 09}La medicina que tengo no servirá de mucho... ojalá se ponga bien...
+{05}{04}{03 00}{07 01}Sí, yo también lo espero.
+{05}{04}{03 06}{07 09}¿Sabes por qué lo digo? Porque es mi tipo...
+{05}{04}{03 00}{07 01}...
+{05}{04}{03 06}{07 09}Bueno, tengo un negocio que atender... ¿Qué vas a querer?
+{05}{04}
+
+@02C
+{03 06}{07 09}Oye, tú... Te veo distinto. ¿Pasó algo?
+{05}{04}{03 07}{07 01}N-no... No pasó nada...
+{05}{04}{03 06}{07 09}¿En serio? Si tú lo dices... ¿Qué te pongo?
+{05}{04}
+
+@02D
+{03 06}{07 09}Bienvenido de nuevo.
+{05}{04}
+
+@02E
+{03 00}{07 01}¡Mina! ¿Estás bien?
+{05}{04}{03 01}{07 02}Sí, estoy bien. Parece que los monstruos ya no pueden entrar aquí.
+{05}{04}{03 00}{07 01}Arikado dijo que levantaría una barrera protectora...
+{05}{09}Y ya que hablamos de él... ¿quién es Arikado exactamente?
+{05}{04}{03 01}{07 02}No estoy segura. Oí que hace algo relacionado con la inteligencia nacional.
+{05}{04}{03 00}{07 01}¿Inteligencia nacional? Suena a que es un espía.
+{05}{04}{03 01}{07 02}Lleva muchos años viniendo al santuario. Es un hombre fuera de lo común.
+{05}{04}{03 00}{07 01}¿Qué lo hace tan fuera de lo común?
+{05}{04}{03 01}{07 02}La cara de una persona normal cambia con el paso de los años, ¿no?
+{05}{04}{03 00}{07 01}Sí, la gente cambia al hacerse mayor.
+{05}{04}{03 01}{07 02}En los diez años que lo conozco, no ha cambiado nada.
+{05}{04}{03 00}{07 01}¿Segura que no es solo tu imaginación?
+{05}{04}{03 01}{07 02}Podría ser, pero...
+{05}{09}Su rostro es demasiado hermoso. Es casi perfecto. ¿No te parece?
+{05}{04}{03 00}{07 01}O sea que dices que es tu tipo, ¿no?
+{05}{04}{03 01}{07 02}¡Pero qué dices! A mí me gustan los chicos que son...
+{05}{09}....... ¡Eso no es asunto tuyo, ¿de acuerdo?!
+{05}{04}{03 00}{07 01}Solo era una broma. ¿Por qué te lo tomas tan en serio?
+{05}{04}{03 01}{07 02}O-olvídalo... ¿No crees que sería mejor que tú también te quedaras aquí?
+{05}{04}{03 00}{07 01}No. Para sacarnos de aquí, hay algo que me dijeron que debo hacer.
+{05}{09}Aparte de eso, descubrí que yo también tengo poderes mágicos.
+{05}{09}(Mejor no menciono el peligro de quedarse aquí demasiado tiempo...)
+{05}{04}{03 01}{07 02}Entiendo... Pero ten cuidado, por favor.
+{05}{04}{03 00}{07 01}Lo tendré. ¿Mina...?
+{05}{04}{03 01}{07 02}¿Sí?
+{05}{04}{03 00}{07 01}¿Confías en mí?
+{05}{04}{03 01}{07 02}¡Claro que sí! Sé que tú nunca me mentirías.
+{05}{04}{03 00}{07 01}Si es así, espera aquí, por favor. Te prometo que te llevaré de vuelta a casa.
+{05}{04}{03 01}{07 02}Está bien, no te preocupes por mí. Puedo esperar todo lo que necesites.
+{05}{04}{03 00}{07 01}Bien, volveré.
+{05}{04}{03 01}{07 02}No te vayas a lastimar, ¿sí?
+{05}{04}{03 00}{07 01}Sí.
+{05}{04}
+
+@02F
+{03 01}{07 02}Bienvenido, Soma. Oye...
+{05}{04}{03 00}{07 01}¿Qué?
+{05}{04}{03 01}{07 02}Ese hombre de allá...
+{05}{04}{03 00}{07 01}¿Quién? ¿Te refieres a Hammer?
+{05}{04}{03 01}{07 02}Se llama Hammer, ¿eh? ¿No te parece que da un poco de miedo?
+{05}{04}{03 00}{07 01}No, creo que es un buen tipo.
+{05}{04}{03 01}{07 02}Pero mira todas esas armas que tiene ahí...
+{05}{04}{03 00}{07 01}Me dijo que iba a abrir su propia tienda.
+{05}{04}{03 01}{07 02}¡¿Aquí?! ¿Va a abrir una tienda en este castillo? Qué raro es...
+{05}{04}{03 00}{07 01}Sí, es bastante extraño...
+{05}{04}{03 01}{07 02}Pero si tú dices que es buena persona... te creeré.
+{05}{04}
+
+@030
+{03 01}{07 02}¡Oh! Soma. Me pregunto si Yoko se pondrá bien...
+{05}{04}{03 00}{07 01}¿Conoces a Yoko?
+{05}{04}{03 01}{07 02}Sí... Viene a mi casa desde que yo era muy pequeña.
+{05}{09}Como soy hija única, ha sido como una hermana mayor para mí.
+{05}{04}{03 00}{07 01}Ya veo... ¿Arikado la trajo aquí?
+{05}{04}{03 01}{07 02}Sí, él la trajo.
+{05}{04}{03 00}{07 01}Entonces seguro que está bien. Dijo que no nos preocupáramos por ella.
+{05}{09}Estaba seguro de poder salvarla. Por eso la trajo aquí.
+{05}{04}{03 01}{07 02}Si tú dices que estará bien, te creo.
+{05}{04}{03 00}{07 01}Sé que esto es duro para ti, pero aguanta...
+{05}{04}{03 01}{07 02}Sí. Déjamelo a mí.
+{05}{04}
+
+@031
+{03 01}{07 02}Bienvenido.
+{05}{04}{03 00}{07 01}¿Cómo sigue Yoko?
+{05}{04}
+
+@032
+{03 01}{07 02}Sigue inconsciente.
+{05}{04}
+
+@033
+{03 01}{07 02}Parece que tiene mucho dolor.
+{05}{04}
+
+@034
+{03 01}{07 02}De vez en cuando grita de dolor.
+{05}{04}
+
+@035
+{03 00}{07 01}Ya veo...
+{05}{04}
+
+@036
+{03 01}{07 02}Bienvenido.
+{05}{04}{03 00}{07 01}¿Cómo lo llevas?
+{05}{04}
+
+@037
+{03 01}{07 02}Estoy perfectamente. Gracias por preguntar.
+
+@038
+{03 01}{07 02}Estoy un poco cansada... Pero no es nada de lo que debas preocuparte.
+
+@039
+{03 01}{07 02}Estoy bien. Sé que te preocupas por mí. Eso me hace sentir especial.
+
+@03B
+{03 01}{07 02}Últimamente tengo unos dolores de cabeza terribles.
+{05}{04}
+
+@03C
+{03 01}{07 02}A veces siento el cuerpo muy pesado.
+{05}{04}
+
+@03D
+{03 01}{07 02}A veces me siento muy intranquila esperando aquí.
+{05}{04}
+
+@03E
+{03 00}{07 01}¿Vas a estar bien?
+{05}{04}{03 01}{07 02}Sí. No te preocupes, estoy bien.
+{05}{04}
+
+@03F
+{03 01}{07 02}Últimamente me siento rara... Estoy taaaan agotada...
+{05}{04}
+
+@040
+{03 01}{07 02}Bueno, yo... a veces me desmayo. Me mareo mucho y luego...
+{05}{04}
+
+@041
+{03 01}{07 02}A veces pierdo el control de los brazos y las piernas... ¿Qué me pasa?
+{05}{04}
+
+@042
+{03 00}{07 01}¿Segura que vas a estar bien?
+{05}{04}{03 01}{07 02}Perdona por preocuparte. Seguro que estaré bien. Esperar aquí es fácil.
+{05}{04}{03 00}{07 01}Si tú lo dices, pero...
+{05}{09}(Debo encontrar una salida... ¡y rápido!)
+{05}{04}
+
+@043
+{03 01}{07 02}Bien... bienvenido. Eres Soma, ¿verdad...?
+{05}{04}{03 07}{07 01}Sí...
+{05}{04}{03 01}{07 02}¿Qué te pasó? Te ves tan... aterrador.
+{05}{04}{03 07}{07 01}N-no pasó nada.
+{05}{09}(¡No quiero que sepa la verdad!)
+{05}{04}{03 01}{07 02}Está bien...
+{05}{04}{03 07}{07 01}Oye, Mina...
+{05}{04}{03 01}{07 02}¿Qué?
+{05}{04}{03 07}{07 01}Si yo ya no fuera Soma, ¿cómo te sentirías?
+{05}{04}{03 01}{07 02}¿Qué... qué te pasa?
+{05}{04}{03 07}{07 01}Escucha. Si yo... Si me viera como yo, pero...
+{05}{09}Si por dentro fuera otra persona... ¿cómo te sentirías?
+{05}{09}¿Qué diablos estoy diciendo? Olvida lo que acabo de decir, Mina, ¿sí?
+{05}{04}{03 01}{07 02}Mmm, puede que ya no me gustaras. Y esa mirada tuya me da miedo...
+{05}{09}Preferiría que cambiaras por fuera, pero no por dentro...
+{05}{04}{03 07}{07 01}... Perdóname, por favor, si alguna vez cambio...
+{05}{04}{03 01}{07 02}....... ¿Qué quieres decir con "perdóname"?
+{05}{04}{03 07}{07 01}N-no es nada... Debo irme ya.
+{05}{04}{03 01}{07 02}¡No! ¡¡Soma, ESPERA!!
+{05}{04}
+
+@044
+{03 01}{07 02}¿Qué te pasa, Soma? Últimamente estás muy raro.
+{05}{04}{03 07}{07 01}E... eso no es cierto.
+{05}{04}{03 01}{07 02}¡No es propio de ti ocultarme algo!
+{05}{04}{03 07}{07 01}...... Lo siento... Pero simplemente no puedo
+{05}{09}contarte esto. Tengo que irme.
+{05}{04}{03 01}{07 02}¡Soma!
+{05}{04}
+
+@045
+{03 01}{07 02}Bienvenido. Tengo un mensaje para ti de parte de Arikado.
+{05}{04}{03 00}{07 01}¿De Arikado?
+{05}{04}{03 01}{07 02}Sí, es, eh...
+{05}{09}
+
+@046
+Cuando la velocidad a la que caes disminuya, podrás saltar más lejos.
+{05}{09}Intenta imaginar que planeas por el aire...
+{05}{04}
+
+@047
+Cuando seas capaz de intercambiar tu HP y tu MP, hay un enemigo
+{05}{09}al que podrás derrotar al instante.
+{05}{09}No lo entiendo muy bien, pero... esto te sirve, ¿verdad?
+{05}{04}
+
+@048
+Si corres a toda velocidad sobre la superficie del agua, con tu cuerpo
+{05}{09}fuerte podrías atravesar el muro de agua. ¿Qué significa eso?
+{05}{09}¿Será imposible para un humano?
+{05}{04}
+
+@049
+Dicen que hay un enemigo que se mueve a velocidades altísimas. Es tan rápido
+{05}{09}que es invisible. Si pudieras detener el tiempo, quizá lograrías verlo.
+{05}{04}
+
+@04A
+En algún lugar del castillo hay un monstruo que puede detener el tiempo.
+{05}{09}También oí que algunos monstruos son inmunes a quedar congelados en el tiempo.
+{05}{04}
+
+@04B
+Si te paras sobre el agua y saltas desde ese punto, podrás subir hasta allí.
+{05}{09}Pararse sobre el agua, ¿qué querrá decir? ¿Tendrás que hacer como un ninja?
+{05}{04}
+
+@04C
+Hay una zona a la que se llega viajando a través del agua.
+{05}{09}Sin equipo de buceo, puede ser demasiado difícil para un humano.
+{05}{04}
+
+@04D
+Cuando mires hacia arriba y veas un demonio en el altar, también hay algo más
+{05}{09}allí. Un demonio en el altar, ¿qué crees que será?
+{05}{04}
+
+@04E
+Debería haber libros antiguos que hablan del poder de Drácula escondidos en algún lugar
+{05}{09}de este castillo.
+{05}{09}Me pregunto de qué tratarán.
+{05}{04}
+
+@04F
+Dicen que aquí en el castillo el espacio está distorsionado en algunas partes.
+{05}{09}Y algunas están conectadas con puntos distintos.
+{05}{09}En resumen, en ciertos lugares no puedes volver al punto del que viniste.
+{05}{04}
+
+@050
+{03 00}{07 01}Ya veo...
+{05}{04}{03 01}{07 02}Vuelve más tarde. Quizá tenga otro mensaje de Arikado.
+{05}{04}{03 00}{07 01}Pasaré a verte siempre que pueda.
+{05}{04}
+
+@051
+{03 00}{07 01}Mmm... no tiene ningún sentido.
+{05}{04}
+
+@052
+{03 07}{07 01}......
+{05}{04}{03 01}{07 02}¿Qué te pasa, Soma? Últimamente estás muy raro.
+{05}{04}{03 07}{07 01}E... eso no es cierto.
+{05}{04}{03 01}{07 02}¡No es propio de ti ocultarme algo!
+{05}{04}{03 07}{07 01}...... Lo siento... Pero simplemente no puedo
+{05}{09}contarte esto. Tengo que irme.
+{05}{04}{03 01}{07 02}¡Soma!
+{05}{04}
+
+@053
+{03 01}{07 02}Bienvenido.
+{05}{04}{03 00}{07 01}Oye, Mina...
+{05}{04}{03 01}{07 02}¿Qué pasa?
+{05}{04}{03 00}{07 01}Es un poco tarde para preguntarlo, pero ¿qué clase de santuario es el Santuario Hakuba?
+{05}{04}{03 01}{07 02}Soma, ¿conoces la historia del santuario de Amanoiwado?
+{05}{04}{03 00}{07 01}Creo que la he oído antes.
+{05}{04}{03 01}{07 02}En la historia, Tensho Daijin se oculta en el santuario para calmar a Susanoo.
+{05}{04}{03 00}{07 01}Sí, ahora lo recuerdo.
+{05}{04}{03 01}{07 02}Tensho Daijin es el sol. El acto de ocultarse simboliza un eclipse.
+{05}{09}Al esconderse, logró contener la ira de Susanoo.
+{05}{04}{03 00}{07 01}Por esa razón se cree que los eclipses encierran la ira y las malas intenciones.
+{05}{04}{03 01}{07 02}Sí, la gente ha rezado a los eclipses durante siglos.
+{05}{09}Y el Santuario Hakuba es un santuario dedicado justamente a eso.
+{05}{04}{03 00}{07 01}Ahora lo entiendo...
+{05}{04}{03 01}{07 02}Y normalmente solo celebramos ceremonias para los eclipses de Japón, pero...
+{05}{04}{03 00}{07 01}En 1999 se realizó un ritual en Europa...
+{05}{04}{03 01}{07 02}Sí... Eso fue lo que me contaron.
+{05}{04}{03 00}{07 01}Y fue entonces cuando el castillo de Drácula quedó sellado en su interior...
+{05}{04}{03 01}{07 02}Por eso supe que las cosas que dijo el señor Arikado eran...
+{05}{04}{03 00}{07 01}Sí, ahora sé que decía la verdad.
+{05}{04}{03 01}{07 02}Lo siento. No te he sido de mucha ayuda.
+{05}{04}{03 00}{07 01}Eso no es cierto, ahora me siento un poco más aliviado. Gracias, Mina.
+{05}{04}
+
+@054
+{03 04}{07 05}.......
+{05}{04}
+
+@055
+{03 00}{07 01}Parece que está dormida...
+{05}{04}
+
+@056
+{03 00}{07 01}Me pregunto si alguna vez recobrará el conocimiento.
+{05}{04}
+
+@057
+{03 00}{07 01}Yoko, por favor, no te mueras...
+{05}{04}
+
+@059
+{03 04}{07 05}¡Drácula es...!
+{05}{04}{03 00}{07 01}......
+{05}{04}{03 04}{07 05}......
+{05}{04}{03 00}{07 01}Uf... solo está delirando... Pensé que lo sabía...
+{05}{04}
+
+@05A
+{03 05}{07 08}Perdona que te hiciera esperar. Es hora de cumplir la promesa que te hice.
+{05}{04}

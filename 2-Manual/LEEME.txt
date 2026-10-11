@@ -1,0 +1,53 @@
+﻿VERSIÓN MANUAL (arrastrar y soltar)
+===================================
+
+Carpeta del juego:
+   C:\Program Files (x86)\Steam\steamapps\common\Castlevania Advance Collection
+   (en Steam: clic derecho en el juego > Administrar > Ver archivos locales)
+
+Cierra el juego antes de empezar. Son dos arrastres: en los dos se arrastra
+la carpeta "windata" que hay DENTRO de la carpeta indicada hasta la carpeta
+del juego, y se acepta reemplazar los archivos (y el permiso de
+administrador, si Windows lo pide).
+
+PASO 1 - una sola vez
+   Carpeta "Paso-1_Datos".
+   Lleva los datos del juego con todas las traducciones dentro.
+
+PASO 2 - elige UNA
+   "Paso-2_Americana"             español en la versión americana (US)
+   "Paso-2_Europea"               español en la versión europea (EU)
+   "Paso-2_Americana-y-europea"   español en las dos
+
+Luego abre el juego y, en el menú de la colección, elige esa versión de
+cada título. Las versiones que no elijas siguen en su idioma original.
+En Aria of Sorrow europeo el español sustituye al inglés: si pusiste el
+juego en francés o alemán, vuelve a English.
+
+Para cambiar de opción basta repetir el paso 2 con otra carpeta.
+
+VOLVER AL ORIGINAL
+   Arrastra la "windata" de la carpeta "Volver-al-original".
+   Si algo no quedara bien, Steam lo arregla siempre: clic derecho en el
+   juego > Propiedades > Archivos instalados > Verificar integridad.
+
+CUÁNDO HAY QUE REPETIRLO
+   Si Steam verifica o repara los archivos, el juego vuelve a su idioma
+   original: repite los pasos 1 y 2. Lo mismo si entre medias usaste el
+   instalador (Instalar.bat o Desinstalar.bat).
+
+IMPORTANTE
+ - Estos archivos salieron de tu copia del juego el 11/10/2026. Si el juego
+   recibe una actualización de verdad, NO uses esta carpeta (lo dejarías
+   con datos antiguos): usa el instalador, o crea de nuevo esta carpeta
+   con crear_manual.py.
+   Cómo saberlo: antes del paso 1, mira cuánto ocupa windata\alldata.bin
+   en la carpeta del juego (clic derecho > Propiedades > Tamaño):
+       339.873.792 bytes  = juego original
+       366.956.544 bytes  = con estos datos ya puestos
+   Si sale otro número y no has usado el instalador, el juego cambió.
+ - No compartas ni subas esta carpeta a GitHub ni a ningún sitio:
+   alldata.bin es el juego entero. Para compartir está el instalador.
+ - Solo se reemplazan archivos de datos del juego; tus partidas no cambian.
+ - Es compatible con el instalador: después de arrastrar, Desinstalar.bat
+   también funciona.

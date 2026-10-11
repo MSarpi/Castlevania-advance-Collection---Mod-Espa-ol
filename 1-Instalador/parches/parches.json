@@ -1,0 +1,65 @@
+{
+  "juegos": [
+    {
+      "id": "cotm-us",
+      "juego": "cotm",
+      "region": "us",
+      "nombre": "Castlevania: Circle of the Moon",
+      "carpeta": "circle-of-the-moon/us",
+      "entrada": "system/roms/01_Circle_US.patch_210614m.bin.m",
+      "version": "americana (US)",
+      "sha1_rom": "9483aa48b384ff3142c47fe81c13ca874a608eb0"
+    },
+    {
+      "id": "hod-us",
+      "juego": "hod",
+      "region": "us",
+      "nombre": "Castlevania: Harmony of Dissonance",
+      "carpeta": "harmony-of-dissonance/us",
+      "entrada": "system/roms/02_Byakuya_US.patch_210520m.bin.m",
+      "version": "americana (US)",
+      "sha1_rom": "58a562662f416846b7e3575da2844f2fda72f6c1"
+    },
+    {
+      "id": "aos-us",
+      "juego": "aos",
+      "region": "us",
+      "nombre": "Castlevania: Aria of Sorrow",
+      "carpeta": "aria-of-sorrow/us",
+      "entrada": "system/roms/03_Akatsuki_US.patch_210623m.bin.m",
+      "version": "americana (US)",
+      "sha1_rom": "f2869a861f1be637a1d1b57009cb42cc06b82e09"
+    },
+    {
+      "id": "cotm-eu",
+      "juego": "cotm",
+      "region": "eu",
+      "nombre": "Castlevania: Circle of the Moon",
+      "carpeta": "circle-of-the-moon/eu",
+      "entrada": "system/roms/01_Circle_EU.patch_210614m.bin.m",
+      "version": "europea (EU)",
+      "sha1_rom": "30a2fd3fe95a8a84b02da7ddbc8b2a90e0553d9b"
+    },
+    {
+      "id": "hod-eu",
+      "juego": "hod",
+      "region": "eu",
+      "nombre": "Castlevania: Harmony of Dissonance",
+      "carpeta": "harmony-of-dissonance/eu",
+      "entrada": "system/roms/02_Byakuya_EU.patch_210520m.bin.m",
+      "version": "europea (EU)",
+      "sha1_rom": "3997c7a3bd3b47165f78fe96e1d20e8037fea555"
+    },
+    {
+      "id": "aos-eu",
+      "juego": "aos",
+      "region": "eu",
+      "nombre": "Castlevania: Aria of Sorrow",
+      "carpeta": "aria-of-sorrow/eu",
+      "entrada": "system/roms/03_Akatsuki_EU.patch_210623m.bin.m",
+      "version": "europea (EU)",
+      "sha1_rom": "02dc76fdfe464877202b3d59cd102d626d194fe6",
+      "nota": "El español sustituye al inglés: si pusiste el juego en francés o alemán, vuelve a English."
+    }
+  ]
+}

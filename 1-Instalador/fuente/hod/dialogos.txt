@@ -1,0 +1,400 @@
+# Harmony of Dissonance - diálogos. Los comandos {..} se conservan del original:
+#   {03 xxxx} retrato   {07 xxxx} nombre   {05} esperar botón   {04} cambia personaje
+#   {09} sigue el mismo personaje   {02 xxxx} avanza la escena
+# El texto se ajusta solo a 3 líneas por cuadro (si no cabe, se añade otro cuadro).
+
+@00A
+Han pasado cincuenta años desde que Simon Belmont venció la maldición de Drácula.
+{05}{09}El destino ha dispuesto que Juste Belmont, descendiente directo de la familia Belmont, busque las reliquias de Drácula.
+{05}{09}Un día, Maxim, el mejor amigo de Juste, que había partido dos años antes en un viaje de entrenamiento, regresó de improviso... con el cuerpo cubierto de heridas.
+{05}{09}Le cuenta a Juste que Lydie, una amiga de la infancia a quien ambos quieren mucho, ha sido secuestrada.
+{05}{09}Maxim ha perdido por completo la memoria de su entrenamiento lejos de casa, y solo guarda imágenes vagas del secuestro.
+{05}{09}Sin hacer caso de sus heridas, Maxim guía a Juste hasta el lugar donde cree que tienen cautiva a Lydie.
+{05}{09}Tras atravesar una espesa niebla, los dos hombres dan con un castillo que no figura en ningún mapa. ¿Será este el legendario castillo de Drácula?
+{05}{09}Erguido solemne en la noche, este castillo imponente recibe a sus inesperados huéspedes mientras la luz de la luna lo ilumina...
+{05}{09}
+
+@00B
+{03 0001}{07 0000}Así que de verdad crees que trajeron a Lydie a este castillo...
+{05}{04}{03 0002}{07 0001}Me falla la memoria, pero... este parece ser el lugar... ¿No me crees?
+{05}{04}{03 0001}{07 0000}Sé mejor que nadie que tú no eres de los que mienten.
+{05}{04}{03 0002}{07 0001}Juste...
+{02 0001}¡¡Aaargh!!
+{05}{04}{03 0001}{07 0000}¡¿Estás bien?!
+{05}{04}{03 0002}{07 0001}Es... estoy bien... es Lydie quien debe preocuparte, no yo...
+{05}{09}¡¡Adelántate!! Iré justo detrás de ti. Tienes mi palabra.
+{05}{04}{03 0001}{07 0000}De acuerdo. ¡¡Nos vemos dentro!!
+{05}{04}
+
+@00C
+{03 0004}{07 0009}¡Alto! El color de tu alma... Debes de ser un Belmont...
+{05}{04}{03 0001}{07 0000}Así es. Este... poder abrumador... ¿La Muerte...?
+{05}{04}{02 0001}{03 0004}{07 0009}En efecto.
+{07 0005}{05}{04}{03 0001}{07 0000}Lo que significa que este es, de hecho, el castillo de Drácula...
+{05}{04}{03 0004}{07 0005}Puede que sea cierto... aunque el poder que hay aquí no es el de mi señor.
+{05}{04}{03 0001}{07 0000}¡¿Qué quieres decir?!
+{05}{04}{03 0004}{07 0005}Debo irme ya. Volveremos a vernos, hijo de los Belmont...
+{05}{04}{02 0001}{02 0000}{03 0001}{07 0000}Aaargh... Se... escapó...
+{05}{04}
+
+@00D
+{03 0001}{07 0000}¡¡Maxim!! ¿Estás bien?
+{05}{04}{03 0002}{07 0001}{02 0001}Oh... eh... Juste, ¿eres tú? Me alegra que estés bien.
+{05}{04}{03 0001}{07 0000}¿Qué te pasa? Quedarte ahí aturdido... te deja indefenso.
+{05}{04}{03 0002}{07 0001}{02 0001}Yo, eh... creo que ya he estado en este castillo antes...
+{05}{04}{02 0001}{03 0001}{07 0000}¿Qué dijiste?
+{05}{04}{02 0001}{03 0002}{07 0001}No lo recuerdo con claridad, pero creo que ya estuve aquí...
+{05}{04}{03 0001}{07 0000}¿Estás recuperando la memoria?
+{05}{04}{03 0002}{07 0001}Eso parece. Me siento raro desde que llegué al castillo.
+{05}{09}Si seguimos un poco más, quizá logre recordar algo.
+{05}{04}{02 0001}{03 0001}{07 0000}¡Vamos! Sigamos juntos, Maxim.
+{05}{04}{03 0002}{07 0001}No, si queremos encontrar a Lydie debemos separarnos. Así cubriremos más terreno.
+{05}{04}{02 0001}{03 0001}{07 0000}Mmm... Sí, tienes razón.
+{05}{04}{03 0002}{07 0001}Ten cuidado, Juste.
+{05}{04}{02 0001}{03 0001}{07 0000}Cuídate tú también, Maxim...
+{05}{04}{02 0001}
+
+@00E
+{03 0003}{07 0001}¡Juste! ¡Ahí estás!
+{05}{04}{03 0001}{07 0000}¿Qué pasó, Maxim? ¿Encontraste a Lydie?
+{05}{04}{03 0003}{07 0001}¿Cómo te atreves a preguntarme a MÍ por Lydie? Eres uno de sus captores, ¿no?
+{05}{04}{03 0001}{07 0000}¿Eh? ¿De qué diablos estás hablando?
+{05}{04}{03 0003}{07 0001}Oh, nada... Olvídalo.
+{05}{09}No conozco el alcance de tu poder, Belmont. Pero no dejaré que te la quedes.
+{05}{04}{03 0001}{07 0000}¿Qué te ha pasado? ¡No eres el de siempre!
+{05}{04}{03 0003}{07 0001}Obtuve nuevos poderes para superar tu fuerza. Pero primero, la mujer...
+{05}{09}¡Adiós! Ojalá te pudras entre los muros de este castillo.
+{05}{04}{02 0001}{03 0001}{07 0000}¡Espera, Maxim!
+{02 0000}{05}{09}¿De verdad era Maxim? ¿Me engañan los ojos y los oídos?
+{05}{04}
+
+@00F
+{03 0002}{07 0001}¡Juste! ¿Encontraste a Lydie?
+{05}{04}{03 0001}{07 0000}Tú... eres Maxim, ¿verdad?
+{05}{04}{03 0002}{07 0001}¡Oye! ¿Qué quieres decir con eso?
+{05}{04}{03 0001}{07 0000}Eh, nada. Olvídalo. Dime, ¿cómo te fue?
+{05}{04}{03 0002}{07 0001}Todavía no he encontrado nada. Pero poco a poco voy recuperando la memoria.
+{05}{04}{02 0001}{03 0001}{07 0000}¿En serio? ¿Entonces Lydie sí está en algún lugar de este castillo?
+{05}{04}{03 0002}{07 0001}Sí, ahora estoy seguro. Y sé que yo también he estado aquí antes...
+{05}{09}... Y hay algo que creo que deberías saber...
+{05}{04}{03 0001}{07 0000}Adelante, puedes contarme lo que sea.
+{05}{04}{03 0002}{07 0001}El día que heredaste el título de Cazavampiros... sentí como si se alzara
+{05}{09}un muro entre nosotros... y por esa razón partí en mi viaje.
+{05}{09}Quería ser mejor que tú y librarte de tu destino.
+{05}{04}{03 0001}{07 0000}...
+{05}{04}{03 0002}{07 0001}Hace mucho me hablaste de los restos de Drácula. ¿Lo recuerdas?
+{05}{04}{03 0001}{07 0000}Sí, lo recuerdo. La historia de cómo mi abuelo, Simon,
+{05}{09}reunió los restos de Drácula y los destruyó para deshacer su maldición.
+{05}{04}{03 0002}{07 0001}Pensé que mis deseos se cumplirían si yo también los reunía y los destruía.
+{05}{04}
+
+@010
+{03 0001}{07 0000}¡¿Qué?! ¡¿Los encontraste?!
+{05}{04}{03 0002}{07 0001}Según la leyenda, aún es pronto para la resurrección de Drácula.
+{05}{09}Y tampoco es que ahora mismo haya alguien maldito.
+{05}{09}Al principio dudaba de poder encontrar todos sus restos...
+{05}{09}Pero hallé seis partes, como si me guiara un ser superior...
+{05}{04}{03 0001}{07 0000}Eso es imposible...
+{05}{04}{03 0002}{07 0001}Apenas recuerdo lo que ocurrió después, pero los restos
+{05}{09}desaparecieron. Lo que sí recuerdo con claridad es que secuestraron a Lydie...
+{05}{04}{03 0001}{07 0000}Si es cierto, puede que los restos de Drácula estén dando origen a este castillo...
+{05}{04}
+
+@011
+{03 0001}{07 0000}Eso significa que los restos hallados en este castillo son auténticos...
+{05}{04}{03 0002}{07 0001}Son idénticos a los que encontré. Pero apenas recuerdo lo que
+{05}{09}pasó después de hallarlos. Solo recuerdo que trajeron a Lydie aquí.
+{05}{04}{03 0001}{07 0000}Si es cierto, puede que los restos de Drácula estén dando origen a este castillo...
+{05}{04}
+
+@012
+{03 0002}{07 0001}Perdóname. Todo esto es culpa mía...
+{05}{04}{03 0001}{07 0000}No es a mí a quien debes pedirle perdón...
+{05}{04}{03 0002}{07 0001}¡¿?!
+{05}{04}{03 0001}{07 0000}Primero deberías disculparte con Lydie. Debemos darnos prisa y encontrarla.
+{05}{04}{03 0002}{07 0001}Sí. Sí, tienes razón. Bien, me voy entonces.
+{05}{04}{03 0001}{07 0000}Maxim... Creo en ti.
+{05}{04}{03 0002}{07 0001}Gracias, Juste...
+{05}{04}
+
+@013
+{03 0001}{07 0000}¡Aaargh! ¡La Muerte ha vuelto!
+{05}{04}{03 0004}{07 0005}Mortal... conoces a un hombre llamado "Maxim", ¿no es así?
+{05}{04}{02 0001}{03 0001}{07 0000}¡Sí, lo conozco! ¡¿Qué pasa con él?!
+{05}{04}{03 0004}{07 0005}Creo que ese hombre ha descubierto objetos que albergan los poderes de mi señor.
+{05}{04}{02 0001}{03 0001}{07 0000}¡¿?! Te refieres a los restos de Drácula...
+{05}{04}{03 0004}{07 0005}¡¿Los restos fragmentados de mi señor?! Ahora todo tiene sentido...
+{05}{04}{03 0001}{07 0000}¡¿De qué demonios estás hablando?!
+{05}{04}{03 0004}{07 0005}Me has dado una respuesta. Así que te recompensaré con una
+{05}{09}explicación. Es simple. Este castillo es una creación de la voluntad de Maxim.
+{05}{04}{02 0001}{03 0001}{07 0000}¡¿Qué?! ¡Pero él no es capaz de semejante proeza!
+{05}{04}{03 0004}{07 0005}Cierto en el Maxim original, pero poseer los restos de mi señor lo cambia
+{05}{09}todo. Los dos espíritus de los castillos encarnan ahora los poderes de mi señor.
+{05}{04}{03 0001}{07 0000}¡¿Los "dos" espíritus de los castillos?!
+{05}{04}{03 0004}{07 0005}Ahora existen dos espíritus dentro de su cuerpo.
+{05}{09}Su espíritu original y un espíritu maligno nacido de los restos de mi señor.
+{05}{04}{03 0001}{07 0000}Qué idea más ridícula...
+{05}{04}{03 0004}{07 0005}Y así nacieron dos castillos para encarnar a los dos espíritus.
+{05}{09}De los dos espíritus, el maligno era el que más deseaba los castillos.
+{05}{04}{03 0001}{07 0000}¡Un momento! ¡¿Qué quieres decir con "dos castillos"?!
+{05}{04}{03 0004}{07 0005}Mortal ignorante... ¿No te das cuenta de que este castillo tiene dos "capas"?
+{05}{09}No quiero tener nada más que ver contigo. ¡Adiós!
+{05}{04}{02 0001}{02 0000}{03 0001}{07 0000}¡E-espera! ¿Huyes de mí?
+{05}{04}{03 0004}{07 0005}Este castillo, tal como está ahora, es transitorio. Debo ir a ayudar a completarlo...
+{05}{04}
+
+@014
+{03 0003}{07 0001}Oh, veo que sigues con vida...
+{05}{04}{03 0001}{07 0000}¡Maxim! No, tú no eres Maxim...
+{05}{04}{03 0003}{07 0001}Ja... Me has descubierto...
+{05}{04}{03 0001}{07 0000}¿Qué diablos eres?
+{05}{04}{03 0003}{07 0001}Soy... yo mismo... solo que no el "yo" que conociste en el pasado.
+{05}{09}Los deseos reprimidos de este hombre, sumados a que poseía los
+{05}{09}restos de Drácula, dieron origen a un espíritu aparte... y...
+{05}{09}ese otro espíritu soy yo. No sé si él siquiera sabe que existo.
+{05}{04}{03 0001}{07 0000}¿Y también fuiste tú quien secuestró a Lydie?
+{05}{04}{02 0001}{03 0003}{07 0001}Je, je... Claro que fue obra mía. Ella me pertenece.
+{05}{09}{02 0001}¡Pero él fue y perdió la memoria, y ni siquiera sabe dónde está!
+{05}{09}¡Pero pronto la recuperará! Cuando lo haga, ella será toda mía.
+{05}{04}{03 0001}{07 0000}¡Maldito seas!
+{02 0001}{05}{04}{02 0001}{03 0003}{07 0001}¿Estás seguro? ¡Si yo muero, tu mejor amigo perecerá conmigo!
+{05}{04}{03 0001}{07 0000}¡Aaargh!
+{05}{04}{03 0003}{07 0001}¡Tu muerte está cerca! ¡Muere, perro vil!
+{05}{04}
+
+@015
+{03 0002}{07 0001}Ju... Juste...
+{05}{04}{03 0001}{07 0000}¡¡Maxim!! Esta vez sí eres tú, ¿verdad...?
+{05}{04}{03 0002}{07 0001}... Veo que ya te topaste... con mi otro yo.
+{05}{04}{03 0001}{07 0000}Sí...
+{05}{04}{03 0002}{07 0001}Ya veo... Estuvo a punto de dominarme...
+{05}{09}La fuerza de Drácula era tan abrumadora...
+{05}{04}{03 0001}{07 0000}¡No digas eso! ¡Debes mantenerte fuerte!
+{05}{04}{03 0002}{07 0001}Escúchame... Cuando él trajo a Lydie a este lugar...
+{05}{09}La escondió en un castillo forjado con la esencia de mi mente. Al perder la
+{05}{09}memoria la protegí, pero creo que he llegado a mi límite...
+{05}{09}Está en la sala del señor. Con este brazalete, tú también podrás entrar.
+{05}{04}{02 0001}{03 0001}{07 0000}No puedo dejarte aquí tirado así...
+{05}{04}{03 0002}{07 0001}¡Debes hacerlo! ¡No podemos dejar que él atrape a Lydie!
+{05}{04}{03 0001}{07 0000}En... entendido. Cuando salve a Lydie, te lo prometo, volveré por ti...
+{05}{04}{03 0002}{07 0001}Vete ya... depende de ti...
+{05}{04}
+
+@016
+{03 0001}{07 0000}¡¡Lydie!!
+{05}{04}{02 0001}{03 0005}{07 0004}¡Juste! ¡¿De verdad eres tú, Juste?!
+{05}{04}{03 0001}{07 0000}¿Estás bien? ¿Estás herida?
+{05}{04}{03 0005}{07 0004}Estoy bien. Maxim me tenía escondida aquí, a salvo.
+{05}{04}{03 0001}{07 0000}Ah, ya veo...
+{05}{04}{03 0005}{07 0004}¿No vino contigo?
+{05}{04}{03 0001}{07 0000}Maxim nos espera afuera, creo...
+{05}{04}{03 0005}{07 0004}Oye, ¿qué pasó con la persona que me trajo a este lugar?
+{05}{04}{03 0001}{07 0000}¡¿Quieres decir que no sabes quién fue el que te secuestró?!
+{05}{04}{03 0005}{07 0004}Hasta que Maxim vino a rescatarme, yo... tenía los ojos vendados...
+{05}{04}{03 0001}{07 0000}Ya veo... Bien, intentemos salir de este lugar...
+{05}{04}{03 0005}{07 0004}Sí, vamos.
+{05}{04}{02 0001}{03 0004}{07 0005}Así que aquí es donde te escondías... Él también es un hombre audaz...
+{05}{04}{02 0001}{03 0005}{07 0004}¡Nooooo!
+{05}{04}{03 0001}{07 0000}¡Lydie!
+{05}{04}{03 0004}{07 0005}Me quedaré con esta doncella.
+{05}{04}{02 0001}{03 0005}{07 0004}¡No! Juste... ¡¡sálvame!!
+{05}{04}{02 0001}{03 0001}{07 0000}¡Maldición! ¡Debo ir tras ellos!
+{05}{04}
+
+@017
+{03 0001}{07 0000}¡Así que aquí estabas! ¡Devuélveme a Lydie!
+{05}{04}{03 0004}{07 0005}No temas. Esa doncella está ahora con Maxim.
+{05}{04}{03 0001}{07 0000}¡¿Pero por qué?! ¡Deja a Lydie fuera de esto!
+{05}{04}{03 0004}{07 0005}Esa doncella tendrá un papel esencial para completar este castillo.
+{05}{04}{03 0001}{07 0000}¡¿Qué quieres decir con eso?!
+{05}{04}{03 0004}{07 0005}Este castillo está en un estado transitorio y se prepara para la resurrección de mi señor.
+{05}{09}Sin embargo, el castillo no estará completo hasta que estos dos castillos se fusionen.
+{05}{09}En suma, debemos deshacernos del espíritu de tu querido amigo.
+{05}{04}{03 0001}{07 0000}¡Maxim es un hombre de gran fortaleza! ¡¡No les será tan fácil hacer lo que planean!!
+{05}{04}{03 0004}{07 0005}Nació de mi señor, así que por supuesto conoce formas de reforzar su poder.
+{05}{09}Cuando algo te es querido, su efecto sobre ti se vuelve inconmensurable.
+{05}{04}{03 0001}{07 0000}¡¿?! No, no puede ser... la sangre de Lydie no...
+{05}{09}¡Aléjate de ella!
+{05}{04}{03 0004}{07 0005}No interfieras. ¡Ahora apagaré la vela de tu alma!
+{05}{04}
+
+@018
+{03 0004}{07 0005}Llegas tarde... Los castillos pronto empezarán a fusionarse...
+{05}{04}
+
+@019
+{03 0001}{07 0000}¡Detente!
+{05}{04}{02 0001}{03 0002}{07 0001}J... Juste, eres tú...
+{05}{04}{02 0001}{03 0001}{07 0000}Lydie, ¡¿estás bien?!
+{05}{04}{03 0005}{07 0004}...
+{05}{04}{03 0001}{07 0000}Ha perdido el conocimiento. ¡Pero creo que llegamos a tiempo!
+{05}{04}{02 0001}{03 0001}{07 0000}¡Maxim! Aún has logrado aferrarte a tu verdadero yo.
+{05}{04}{03 0002}{07 0001}Sí, de un modo u otro... pero... he llegado a mi límite...
+{05}{09}Te... te lo ruego... Quítame la vida.
+{05}{04}{03 0001}{07 0000}¿Qué... qué estás diciendo? No puedo...
+{05}{04}{03 0002}{07 0001}Ya no puedo resistir más. No puedo luchar contra el impulso...
+{05}{04}{03 0001}{07 0000}Pero yo... no puedo quitarte la vida.
+{05}{04}{02 0001}{03 0003}{07 0001}Entonces haré que me mates... ¡Defiéndete!
+{05}{04}
+
+@01A
+{03 0002}{07 0001}Gracias, Juste... Porque de verdad deseaba caer por tu mano...
+{05}{04}{03 0001}{07 0000}¡Maxim!
+{05}{04}{03 0002}{07 0001}Quería liberarte de tu destino maldito...
+{05}{04}{03 0001}{07 0000}Ya basta. No hace falta que digas nada más...
+{05}{04}{03 0002}{07 0001}Cuida de Lydie, ¿quieres...?
+{02 0001}{05}{04}{03 0001}{07 0000}¡¡¡Maxim!!!
+{05}{04}
+
+@01B
+{03 0001}{07 0000}¡¡Lydie!!
+{05}{04}{02 0001}{03 0005}{07 0004}...
+{05}{04}{03 0001}{07 0000}Aún respira, pero... ¡Maldición! Llegué tarde.
+{05}{04}{03 0003}{07 0001}Bienvenido a la fiesta, Juste. Llegas tarde.
+{05}{04}{02 0001}{03 0001}{07 0000}Maxim...
+{05}{04}{03 0003}{07 0001}¿Maxim? Oh, su espíritu ya no vive dentro de mí.
+{05}{09}{02 0001}Y todo se lo debo a esa mujer. Mira cuánta fuerza me ha dado.
+{05}{04}{02 0001}{03 0001}{07 0000}¡Maldita sea! No tendré piedad contigo.
+{05}{04}{03 0003}{07 0001}¿Quién necesita piedad? Amenazas débiles de un rival indigno...
+{05}{04}
+
+@01C
+{03 0001}{07 0000}Maxim... Perdóname...
+{05}{04}{03 0003}{07 0001}Crees que voy a perder... Yo, que empuño los poderes del Conde Drácula...
+{05}{04}{03 0001}{07 0000}Maxim era más fuerte que tú...
+{05}{09}¡No creo que hayas podido arrebatarle todo lo que él era!
+{05}{04}{03 0003}{07 0001}Pero si yo muero, él perecerá también. Y la mujer igual...
+{05}{04}{03 0001}{07 0000}...
+{05}{04}{03 0003}{07 0001}Así que esto es un adiós...
+{05}{09}Con esa fuerza maldita tuya, más te vale dar caza a Drácula eternamente.
+{02 0001}{05}{04}
+
+@01D
+{03 0002}{07 0001}Aaargh... E... ese brazalete... Lo llevabas por mí...
+{05}{04}{02 0001}{03 0001}{07 0000}¡¿?! Maxim, ¿eres tú?
+{05}{04}{03 0003}{07 0001}¡¿Por... por qué sigues vivo dentro de mí?! ¡¡Creí que habías muerto!!
+{05}{04}{03 0001}{07 0000}¡¡Recuerda, Maxim!! ¡¡Tú eres más fuerte que esto!!
+{05}{04}{02 0001}{03 0002}{07 0001}Tie... tienes razón... Comparado con nuestro entrenamiento... esto no es nada.
+{05}{04}{03 0003}{07 0001}¡¿Por qué?! ¿Por qué no puedo librarme de ti?
+{05}{04}{03 0002}{07 0001}Porque yo elijo no liberarte. ¡Juste! ¡¡Acaba conmigo!!
+{05}{04}{03 0003}{07 0001}Aaargh...
+{02 0001}Percibo una magia poderosa en acción...
+{05}{04}{02 0001}{03 0001}{07 0000}Los... los restos...
+{05}{04}{02 0001}{03 0003}{07 0001}¡Mientras tenga este poder, no necesito este cuerpo! ¡Toma, quédatelo!
+{05}{04}{02 0001}{03 0002}{07 0001}¡¡Aaaaaah!!
+{05}{04}{02 0001}{02 0000}{03 0006}{07 0008}Mmm, no soy estable, pero tu sangre volverá a hacerme completo.
+{05}{04}{03 0001}{07 0000}Tómala si puedes...
+{02 0001}No subestimes el poder de los Belmont...
+{05}{04}{03 0006}{07 0008}{02 0001}Bien, empecemos entonces. Disfrutaré destruyéndote.
+{05}{04}
+
+@01E
+{03 0006}{07 0008}¡¡Argggh!!
+{05}{04}{03 0001}{07 0000}Te lo dije. ¡¡No subestimes el poder de mi linaje!!
+{05}{04}{03 0006}{07 0008}Así... así que este es el poder de los Belmont...
+{05}{04}{03 0001}{07 0000}Vil engendro de Maxim, no eres digno de ser mi rival.
+{05}{04}{03 0006}{07 0008}Ahora me desvaneceré de este mundo... pero hallo cierto placer en ello...
+{05}{09}con esos poderes malditos tuyos, el destino te llama a cazar por toda la eternidad.
+{05}{04}
+
+@01F
+{03 0005}{07 0004}... Oh, ooh...
+{02 0001}{05}{04}{02 0001}{03 0001}{07 0000}Parece que vuelves en ti...
+{05}{04}{03 0005}{07 0004}¿Nos... han salvado?
+{05}{04}{03 0001}{07 0000}Sí...
+{05}{04}{02 0001}{03 0005}{07 0004}¿Eh? ¿Dónde está Maxim?
+{05}{04}{03 0001}{07 0000}... Maxim está... arghh...
+{05}{04}{03 0005}{07 0004}Juste... está bien. No tienes que decir nada más.
+{05}{04}{03 0001}{07 0000}Yo... yo...
+{05}{04}{03 0005}{07 0004}No tengo idea de lo que pasó entre ustedes dos... pero no debes
+{05}{09}culparte. Culparte a ti mismo es lo mismo que culparlo a él.
+{05}{04}{03 0001}{07 0000}Quizá tengas razón... Sí, Maxim habría estado de acuerdo contigo...
+{05}{04}{03 0005}{07 0004}En todo caso, vamos a casa. Ya lo resolveremos todo después de descansar.
+{05}{04}{03 0001}{07 0000}Me parece bien... ¡Vamos a casa, Lydie!
+{05}{04}
+
+@020
+{03 0001}{07 0000}¡Maldita sea! Al final no pude salvar a Lydie ni a Maxim.
+{05}{09}Lo único que queda para recordarlos es este brazalete...
+{05}{09}{02 0001}Ni siquiera pude proteger a los que amo. ¡He fracasado como Cazavampiros!
+{05}{09}¿Qué demonios voy a hacer ahora conmigo...?
+{05}{04}
+
+@021
+{03 0002}{07 0001}... ¿Dón... dónde estoy?
+{05}{04}{03 0001}{07 0000}Maxim, has vuelto con nosotros...
+{05}{04}{02 0001}{03 0002}{07 0001}¿Estoy vivo...?
+{05}{04}{03 0001}{07 0000}Usaste tu propia fuerza para expulsarlo de ti.
+{05}{04}{03 0002}{07 0001}No fue mi fuerza... Fue la tuya y la de Lydie...
+{05}{09}{02 0001}¡¿?! ¡¿Y Lydie?! ¿La salvaste?
+{05}{04}{03 0001}{07 0000}Aún no despierta, pero las marcas del mordisco se borraron al vencer a Drácula.
+{05}{09}Ha recobrado algo de color. Es solo cuestión de tiempo que despierte.
+{05}{04}{03 0002}{07 0001}Ya veo... Juste... Perdóname, por favor...
+{05}{04}{03 0001}{07 0000}Todo quedó atrás. Todos se salvaron, así que no hay nada más que decir.
+{05}{04}{03 0002}{07 0001}... Gracias.
+{05}{04}{02 0001}{03 0005}{07 0004}... Uhh... Ooh...
+{05}{04}{02 0001}{03 0001}{07 0000}Parece que Lydie vuelve en sí...
+{05}{04}{02 0001}{03 0005}{07 0004}Eh, Juste... ¿Qué hago aquí...?
+{05}{09}Creo... que a mí... me mordió Maxim...
+{05}{04}{03 0001}{07 0000}Cálmate... debió de ser solo un mal sueño. Tócate el cuello.
+{05}{04}{02 0001}{03 0005}{07 0004}...
+{02 0000}{05}No hay nada... Eh, solo fue un sueño.
+{05}{04}{03 0002}{07 0001}Oye, dile la verdad...
+{05}{04}{02 0001}{03 0001}{07 0000}¡Shhh! Cállate.
+{05}{04}{02 0001}{03 0005}{07 0004}¿Qué...? ¡Maxim! ¡Has vuelto!
+{05}{04}{03 0002}{07 0001}Sí, pero en realidad...
+{05}{04}{03 0001}{07 0000}Sí, Maxim. Seguro que estás agotado, ¡así que hablemos al llegar a casa!
+{05}{04}{03 0002}{07 0001}No, quiero...
+{05}{04}{03 0001}{07 0000}Vamos, Maxim. ¡No pasó nada! ¿No es mejor dejarlo así?
+{05}{04}{03 0002}{07 0001}¡No, eso no está bien! Hay que terminar lo que se empieza...
+{05}{04}{02 0001}{03 0001}{07 0000}¡¿Qué acabas de decir?!
+{05}{04}{02 0001}{03 0005}{07 0004}¡Ya basta, ustedes dos!
+{05}{04}{03 0002}{07 0001}...
+{05}{04}{03 0001}{07 0000}...
+{05}{04}{02 0001}{03 0005}{07 0004}¡Paren ya, los dos! No empiecen. ¡Acabamos de reunirnos!
+{02 0001}{05}{04}{03 0002}{07 0001}En realidad, Lydie...
+{05}{04}{03 0005}{07 0004}Escucharé sus historias en casa. Hasta entonces, hablemos de otras cosas.
+{05}{04}{03 0001}{07 0000}Ya oíste a la dama.
+{05}{04}{03 0002}{07 0001}...
+{02 0001}Está bien...
+{05}{04}{02 0001}{03 0005}{07 0004}Ji, ji. Hacía tiempo, ¿verdad?, que no estábamos los tres juntos.
+{02 0001}{05}{04}{03 0001}{07 0000}Sí, es verdad...
+{05}{04}{03 0002}{07 0001}Sí...
+{05}{04}
+
+@281
+{03 0000}{07 0280}Bienvenido.
+{05}{04}{03 0001}{07 0000}¡¿?! ¿Por qué tienes una tienda en un lugar como este?
+{05}{04}{03 0000}{07 0280}Pues, siendo el mercader errante que soy, durante mis viajes...
+{05}{09}de pronto me tragó una niebla densa... y acabé aquí.
+{05}{04}{03 0001}{07 0000}Aun así, no hacía falta que pusieras una tienda en un lugar como este...
+{05}{04}{03 0000}{07 0280}Al principio pasé un tiempo buscando una salida. No la encontré, así que...
+{05}{09}sin más opciones, abrí el negocio aquí mismo...
+{05}{09}Y bien, ¿qué puedo hacer por ti?
+{05}{04}
+
+@282
+{03 0000}{07 0280}Volvemos a vernos. Me alegra verte bien. ¿Qué puedo hacer por ti?
+{05}{04}
+
+@283
+{03 0000}{07 0280}¿Oh? ¿Olvidaste algo?
+{05}{04}
+
+@287
+{03 0001}{07 0000}Vaya, qué sala tan bonita. Quizá algo sosa. Tal vez unos muebles...
+{05}{09}¡Bien, creo que probaré a poner esto justo aquí!
+{05}{04}
+
+@288
+{03 0001}{07 0000}Vaya, qué sala tan bonita. Quizá algo sosa. Tal vez unos muebles...
+{05}{04}
+
+@28A
+{03 0001}{07 0000}Por alguna razón, las cosas se ven un poco distintas que antes...
+{05}{04}
+
+@28B
+{03 0001}{07 0000}Este es el mismo lugar donde estaba antes, pero el aura que lo rodea ha cambiado.
+{05}{09}Ahora lo entiendo. A esto se refería la Muerte cuando dijo que había dos castillos.
+{05}{04}

@@ -1,0 +1,270 @@
+# Circle of the Moon - diálogos (@número de cadena, en decimal).
+# Comandos del juego que se conservan:
+#   {1D xx} abre/cierra cuadro o cambia la voz   {1E xx} quién habla   {1F xx} pausa
+#   {02} esperar botón   {01 0A} limpia el cuadro   {03} fin   {06}/{07} resaltado
+# Ayudas de este archivo:
+#   {P} cuadro nuevo   {N} salto de línea   {C}...{/C} línea centrada
+# El texto se ajusta solo a 21 letras por línea y 3 líneas por cuadro.
+
+@327 {0B}Corre el año 1830...
+@328 {0B}en un viejo castillo de
+@329 {0B}Austria. Los adoradores
+@330 {0B}del caos claman por el
+@331 {0B}regreso del Señor de las
+@332 {0B}Tinieblas.
+
+@333 {1D 44}{1E 04}Imploramos la venida del sufrimiento encarnado,{P}¡el soberano de las tinieblas!{03}{1D C0}
+
+@334
+{1D 46}{1E 03}{20 80}He esperado este momento, {1F 05}el de volver a despertar.
+{P}Bañarme en tinieblas y sentir la luz de la luna en mi interior.
+{P}{1D 04}{1E 04}Conde Drácula, {1F 05}es un honor estar en su presencia.
+{P}{1D 06}{1E 03}Ciertamente.{N}{1F 05}Aunque me falta todo mi poder.
+{P}{1D 04}{1E 04}Estamos preparando el rito para reponer su poder...
+{P}{1E 01}¡Alto!{03}{1D C0}
+
+@335
+{1D 44}{1E 01}¡No se te puede permitir que corrompas el mundo!
+{P}{1D 06}{1E 03}Tú...{N}{1F 05}Ya recuerdo...
+{P}{1D 04}eras uno de los cazavampiros que me sellaron.
+{P}... has envejecido.
+{P}{1D 06}{1E 01}{1F 05}Es nuestro deber verte desterrado.
+{P}{1D 04}{1E 03}{20 81}Qué gracia. {1F 05}Usar la vida de mi némesis para recobrar poder.
+{P}Los niños no me sirven de nada.{N}{1F 03}¡Fuera!{03}{1D C0}
+
+@336 {1D 44}{1E 01}¡Hugh! ¡Nathan!{P}{1E 00}¡Maestro!{P}{1E 02}¡Padre!{03}{1D C0}
+
+@337
+{1D 44}{1E 00}Mmm... No hay criaturas por aquí.
+{P}Hugh, {1F 03}¿estás bien?
+{P}{1E 02}Sí.{N}{1F 05}Solo nos apartaron y nos ignoraron...
+{P}{1E 00}Tenemos que encontrar al Maestro.
+{P}{1E 02}{20 81}Iré yo.{N}{1F 05}Es mi padre.
+{P}Nathan, tú solo estorbarías.{N}{1F 05}Sal de aquí.{03}{1D C0}
+
+@338 {1D 44}{1E 00}Quiero encontrar al Maestro tanto como cualquiera.{03}{1D C0}
+
+@339
+{1D 44}{1E 05}¡Extraordinario! {1F 03}Caer al Abismo y seguir con vida.
+{P}{1D 06}Pero tu suerte está a punto de acabarse.
+{P}{1D 04}{1E 00}¡Apártate de mi camino!
+{P}{1E 05}Niño, {1F 05}antes de acabar contigo te daré una noticia.
+{P}Tu querido Maestro ya está en nuestro poder.
+{P}{1E 00}¡¡Qué!!
+{P}{1E 05}Ese anciano nos alimentará con su alma.
+{P}El rito está listo y solo esperamos la luna llena.
+{P}{1E 00}¡No!{03}{1D C0}
+
+@340 {1D 44}{1E 00}¡Sé que el Maestro sigue vivo! {1F 03}Aguanta, ya voy.{P}{1D 06}Aunque, ¿dónde está Hugh?{03}{1D C0}
+
+@341
+{1D 44}{1E 00}¡Hugh!{N}¿Estás bien?
+{P}{1E 02}¿Qué haces aquí? {1F 03}¿Intentas quitarme la gloria?
+{P}{1E 00}¿Qué? {1F 03}¿De qué hablas? {1F 03}Yo solo quiero salvar al Maestro.
+{P}{1E 02}¡Estorbas!{N}{1F 05}Yo venceré a Drácula.{N}{1F 03}{1D 06}Y entonces...
+{P}{1E 00}¿Hugh?{03}{1D C0}
+
+@342 {1D 44}{1E 00}¡Hugh!{N}{1F 03}¿Estás bien?{03}{1D C0}
+
+@343 {1D 44}{1E 02}¡Tú! {1F 03}Atrás.{N}{1F 05}¡Este trofeo es mío!{03}{1D C0}
+
+@344 {1D 44}{1E 02}¡Urgg!{P}{1E 00}¡¡Hugh!!{03}{1D C0}
+
+@345 {1D 44}{1E 02}¡Maldición!{N}{1F 03}¡Quién te pidió ayuda!{P}{1E 00}No podía dejarte así, ¿verdad?{03}{1D C0}
+
+@346 {1D 44}{1E 02}No creas que lo derrotaste tú.{P}Fue el poder de ese látigo.{03}{1D C0}
+
+@347
+{1D 44}{1E 00}Hugh...
+{P}{1D 06}{1E 02}Nunca me ganaste entrenando. ¡Ni una vez! {1F 03}Pero padre
+{P}te nombró sucesor y te dio el Látigo del cazador.
+{P}{1D 04}Tus padres y mi padre desterraron juntos a Drácula, y
+{P}esos gratos recuerdos le nublaron el juicio.
+{P}¡No lo olvides!{03}{1D C0}
+
+@348
+{1D 44}{1E 00}Tú, {1F 03}tú estabas con Drácula en el salón.
+{P}{1E 04}Soy Camilla.{N}{1F 05}Yo llamé a Drácula para que volviera.
+{P}{1E 00}¿Por qué quieres su regreso?
+{P}¿Para convertir este mundo en un infierno?
+{P}{1E 04}Pero ¿acaso este mundo no es ya infernal?
+{P}A la gente le intrigan las tinieblas,
+{P}y codicia el caos y el poder.
+{P}Son unos perros sucios y egoístas.
+{P}Yo solo deseo que el mundo refleje bien esa imagen.
+{P}{1E 00}¡Estás delirando!{03}{1D C0}
+
+@349 {1D 44}{1E 04}Si tan solo tú también abrazaras las tinieblas de tu alma,{P}un mundo nuevo se abriría ante ti.{P}{1E 00}¡Cállate!{03}{1D C0}
+
+@350
+{1D 46}{1E 04}El que estaba contigo...
+{P}{1D 04}era más sincero consigo mismo.
+{P}Hasta MI AMO lo aprueba.{N}{1F 05}{1D 06}(risita)
+{P}{1D 04}{1E 00}¿Qué?{N}{1F 05}¿Qué le has hecho a Hugh?{03}{1D C0}
+
+@351
+{1D 46}{1E 04}Llegas tarde.{N}{1F 05}El rito está preparado.
+{P}Solo falta la luna llena.
+{P}Es solo cuestión de tiempo
+{P}que el Amo tenga todo su poder de las Tinieblas.
+{P}Tu querido Maestro y tu amigo{1D 08}...{03}{1D C0}
+
+@352 {1D 44}{1E 00}¡Maestro!{N}{1F 03}¡Hugh!{03}{1D C0}
+
+@353 {1D 46}{1E 02}Nathan, {1F 03}así que por fin llegaste.{P}{1D 04}{1E 00}¡¿Hugh?! {1F 05}¿Estás bien?{N}{1F 03}Creí que ellos...{03}{1D C0}
+
+@354
+{1D 44}{1E 00}¡Hugh!{N}{1F 03}¿Qué haces?
+{P}{1D 06}{1E 02}¡Soy superior a ti!
+{P}Te derrotaré para probar mi valía ante mi padre.
+{P}{1D 04}{1E 00}Te está controlando... ¿Camilla?
+{P}No...{N}{1F 03}¡Drácula!{03}{1D C0}
+
+@355
+{1D 44}{1E 00}¡Basta, Hugh! {1F 03}No quiero hacerte daño.{N}{1F 05}¡¡Hugh!!
+{P}{1E 02}¿Nathan?{N}{1F 03}(gemido){N}{1F 03}Yo, {1F 03}{1D 06}yo...
+{P}Ya estoy bien.
+{P}{1D 04}{1E 00}Vuelves a ser tú mismo.
+{P}{1D 06}{1E 02}Nathan, {1F 03}lo siento.{N}{1F 03}Te tenía envidia.
+{P}{1D 04}{1E 00}¿?
+{P}{1D 06}{1E 02}Cuando padre te nombró sucesor,
+{P}temí no valer nada.
+{P}Quería... necesitaba el reconocimiento.
+{P}{1D 04}{1E 00}Basta.
+{P}{1D 06}{1E 02}Esa era quizá la oscura debilidad que padre vio...
+{P}en mi alma... {1F 03}Por eso te eligió a ti.
+{P}{1D 04}{1E 00}Ya basta, Hugh.
+{P}{1D 06}{1E 02}Está bien.
+{P}Hasta yo veo ahora que padre acertó en su decisión.
+{P}No me hagas pasar más vergüenza.
+{P}Déjame compadecerme por ahora.
+{P}Ayuda a padre.{N}{1F 05}Te confío su regreso.
+{P}{1D 04}{1E 00}Acepto.{03}{1D C0}
+
+@356
+{1D 44}{1E 03}Mmm...{N}{1F 03}has hecho bien en llegar tan lejos.
+{P}{1D 04}{1E 00}¡Maestro!
+{P}{1E 03}Qué oportuno.{N}{1F 05}La hora del rito ha llegado.
+{P}Tu alma también será nuestra.{03}{1D C0}
+
+@357
+{1D 44}{1E 00}¡No si lo impido!{N}{1F 05}¡Maestro!{N}{1F 03}¡¿Está bien?!
+{P}{1E 03}Qué escena tan emotiva. {1F 03}Pero no te engañes.
+{P}Hasta tú debes de tener tinieblas {1F 03}{1D 06}en el alma.
+{P}{1D 04}{1E 00}¡Qué!
+{P}{1E 03}Ser superior.
+{P}Ser honrado por tus logros singulares.
+{P}{1E 00}¡!
+{P}{1E 03}... ser amado por todos
+{P}... llevarte la gloria aun a costa de otros.
+{P}Eso es lo que ansiaba tu amigo.
+{P}Yo solo aumenté ese deseo, ese poder.
+{P}{1E 00}¡Plaga despreciable!
+{P}Cómo te atreves a jugar con su alma. {1F 03}Me las pagarás.{03}{1D C0}
+
+@358 {1D 48}{1E 03}Poder...{N}{1F 05}¡Necesito todo mi poder!{03}{1D C0}
+
+@359 {1D 44}{1E 00}¿Eh?{03}{20 80}{1D C0}
+
+@360
+{1D 44}{1E 01}¡Síguelo!{N}{1F 03}¡Que no escape!{N}{1F 08}{1D 06}Urgg...
+{P}{1D 04}{1E 00}¡¡!!
+{P}{1E 02}Yo me ocupo de padre.{N}{1F 03}¡Tú ve tras él!
+{P}{1E 00}... bien.{N}{1F 03}Pon a salvo al Maestro.{03}{1D C0}
+
+@361 {1D 44}{1E 02}Nathan, {1F 03}destierra a Drácula y luego asegúrate de salir.{P}{1D 06}{1E 00}Lo haré.{03}{1D C0}
+
+@362
+{1D 48}{1E 03}Es un esfuerzo inútil. {1F 03}Nunca me iré del todo.
+{P}Mientras haya tinieblas y deseo en el alma del hombre.
+{P}Seguiré reviviendo.
+{P}{1D 04}{1E 00}Y nosotros estaremos ahí para detenerte.{N}{1F 03}{1D 06}Puedes apostarlo.{03}{1D C0}
+
+@363
+{1D 44}{1E 00}Maestro, {1F 03}¿está bien?
+{P}{1E 01}¿Nathan?{N}{1F 03}Gracias.{N}{1F 03}Lo hiciste bien.
+{P}... te has convertido en un Cazador por derecho propio.{03}{1D C0}
+
+@364
+{1D 44}{1E 01}Hugh.{N}{1F 03}A ti también debo darte las gracias.
+{P}Pero tu entrenamiento debe empezar de nuevo.
+{P}{1E 02}Lo sé, padre.
+{P}Entrenaré como si hubiera renacido para ser digno.{03}{1D C0}
+
+@365 {1D 44}{1E 02}Oye, Nathan. {1F 03}Si te ablandas, yo ocuparé tu lugar.{03}{1D C0}
+
+@366 {1D 44}{1E 00}Espero con ganas ese desafío, {1F 03}Hugh.{03}{1D C0}
+
+@367 {1D 44}{1E 00}Está cerrada...{03}{1D C0}
+
+@368
+{0C}{1D 44}Seguir adelante pondrá a prueba tu habilidad en la Arena de batalla.
+{P}Tu poder mental se agotará. No podrás usar el DSS.
+{P}Una vez dentro, no podrás salir hasta derrotarlos a todos.
+{P}Aunque quizá recibas una recompensa por tu esfuerzo.{03}{1D C0}
+
+@369 {1D 10}{C}{06}HP máx.{07} aumenta{/C}{03}{1D 20}
+@370 {1D 10}{C}{06}MP máx.{07} aumenta{/C}{03}{1D 20}
+@371 {1D 10}{C}{06}Corazones máx.{07} aumenta{/C}{03}{1D 20}
+
+@372 {1D 10}{C}{06}Botas veloces{07} obtenidas{/C}{02}{N}{1D 20}{01 0A}{1D 42}{1E 06}Pulsa dos veces adelante para hacer una carrera.{03}{1D C0}
+@373 {1D 10}{C}{06}Doble salto{07} obtenido{/C}{02}{N}{1D 20}{01 0A}{1D 42}{1E 07}Puedes dar otro salto en pleno aire.{03}{1D C0}
+@374 {1D 10}{C}{06}Embestida{07} obtenida{/C}{02}{N}{1D 20}{01 0A}{1D 42}{1E 08}Adelante + botón de movimiento especial: el jugador embiste.{P}Algunos bloques se pueden destruir con este movimiento.{03}{1D C0}
+@375 {1D 10}{C}{06}Botas de pared{07} obtenidas{/C}{02}{N}{1D 20}{01 0A}{1D 42}{1E 09}Salta contra las paredes para ganar altura.{P}Pulsa adelante + botón de movimiento especial.{03}{1D C0}
+@376 {1D 10}{C}{06}Anillo pesado{07} obtenido{/C}{02}{N}{1D 20}{01 0A}{1D 42}{1E 0A}Puedes empujar ciertas cajas.{03}{1D C0}
+@377 {1D 10}{C}{06}Purificación{07} obtenida{/C}{02}{N}{1D 20}{01 0A}{1D 42}{1E 0C}Purifica ciertas aguas para cruzarlas sin peligro.{03}{1D C0}
+@378 {1D 10}{C}{06}Ala de Roc{07} obtenida{/C}{02}{N}{1D 20}{01 0A}{1D 42}{1E 0D}Arriba + botón de movimiento especial: un gran salto.{03}{1D C0}
+@379 {1D 10}{C}{06}Última llave{07} obtenida{/C}{02}{N}{1D 20}{01 0A}{1D 42}{1E 0E}Abre la puerta del lugar donde se hará el rito.{03}{1D C0}
+
+@381 {1D 01}{01 0A}Pulsa dos veces adelante para hacer una carrera.{03}
+@382 {1D 01}{01 0A}Puedes dar otro salto en pleno aire.{03}
+@383 {1D 01}{01 0A}Adelante + botón de movimiento especial: el jugador embiste.{P}Algunos bloques se pueden destruir con este movimiento.{03}
+@384 {1D 01}{01 0A}Salta contra las paredes para ganar altura.{P}Pulsa adelante + botón de movimiento especial.{03}
+@385 {1D 01}{01 0A}Puedes empujar ciertas cajas.{03}
+@386 {1D 01}{01 0A}Purifica ciertas aguas para cruzarlas sin peligro.{03}
+@387 {1D 01}{01 0A}Arriba + botón de movimiento especial: un gran salto.{03}
+@388 {1D 01}{01 0A}Abre la puerta del lugar donde se hará el rito.{03}
+
+@569 {1D 42}{1E 0B}Combina cartas de {06}Atributo{07} y {06}Acción{07} para crear un efecto.{P}Se configuran en el menú, opción {06}DSS{07}.{03}{1D C0}
+
+@570 {1D 10}{C}Carta {06}Salamandra{07} obtenida{/C}{03}{1D 20}
+@571 {1D 10}{C}Carta {06}Serpiente{07} obtenida{/C}{03}{1D 20}
+@572 {1D 10}{C}Carta {06}Mandrágora{07} obtenida{/C}{03}{1D 20}
+@573 {1D 10}{C}Carta {06}Gólem{07} obtenida{/C}{03}{1D 20}
+@574 {1D 10}{C}Carta {06}Cocatriz{07} obtenida{/C}{03}{1D 20}
+@575 {1D 10}{C}Carta {06}Mantícora{07} obtenida{/C}{03}{1D 20}
+@576 {1D 10}{C}Carta {06}Grifo{07} obtenida{/C}{03}{1D 20}
+@577 {1D 10}{C}Carta {06}Ave trueno{07} obtenida{/C}{03}{1D 20}
+@578 {1D 10}{C}Carta {06}Unicornio{07} obtenida{/C}{03}{1D 20}
+@579 {1D 10}{C}Carta {06}Perro negro{07} obtenida{/C}{03}{1D 20}
+@580 {1D 10}{C}Carta {06}Mercurio{07} obtenida{/C}{03}{1D 20}
+@581 {1D 10}{C}Carta {06}Venus{07} obtenida{/C}{03}{1D 20}
+@582 {1D 10}{C}Carta {06}Júpiter{07} obtenida{/C}{03}{1D 20}
+@583 {1D 10}{C}Carta {06}Marte{07} obtenida{/C}{03}{1D 20}
+@584 {1D 10}{C}Carta {06}Diana{07} obtenida{/C}{03}{1D 20}
+@585 {1D 10}{C}Carta {06}Apolo{07} obtenida{/C}{03}{1D 20}
+@586 {1D 10}{C}Carta {06}Neptuno{07} obtenida{/C}{03}{1D 20}
+@587 {1D 10}{C}Carta {06}Saturno{07} obtenida{/C}{03}{1D 20}
+@588 {1D 10}{C}Carta {06}Urano{07} obtenida{/C}{03}{1D 20}
+@589 {1D 10}{C}Carta {06}Plutón{07} obtenida{/C}{03}{1D 20}
+
+@591 {1D 01}{01 0A}Lagarto envuelto en llamas que encarna al espíritu del fuego.{P}Salamandra tiene el poder del Fuego.{03}
+@592 {1D 01}{01 0A}Dicen que la Serpiente es un dragón marino.{P}Tiene el poder del Hielo.{03}
+@593 {1D 01}{01 0A}La Mandrágora es un humanoide con raíces en vez de pies.{P}Tiene el poder de las Plantas.{03}
+@594 {1D 01}{01 0A}El Gólem es una imitación del hombre hecha de arcilla.{P}Tiene el poder de la Tierra.{03}
+@595 {1D 01}{01 0A}Dicen que la Cocatriz convierte las cosas en piedra.{P}Tiene el poder de la Piedra.{03}
+@596 {1D 01}{01 0A}Dicen que la Mantícora tiene cuerpo de león{P}y la cola venenosa de un escorpión. Tiene el poder del Veneno.{03}
+@597 {1D 01}{01 0A}Dicen que el Grifo tiene cabeza y alas de águila{P}y cuerpo de león. Tiene el poder del Viento.{03}
+@598 {1D 01}{01 0A}Dicen que la legendaria Ave del trueno lanzaba rayos.{P}Tiene el poder de la Electricidad.{03}
+@599 {1D 01}{01 0A}El Unicornio era blanco, con un cuerno sagrado en la frente.{P}Tiene el poder de la Luz.{03}
+@600 {1D 01}{01 0A}Dicen que el Perro negro devora la oscuridad.{P}Tiene el poder de la Oscuridad.{03}
+@601 {1D 01}{01 0A}Mercurio, el mensajero de los dioses.{P}Tiene el potencial de la fuerza.{03}
+@602 {1D 01}{01 0A}Venus, diosa del amor y la belleza.{P}Tiene el potencial de la mejora.{03}
+@603 {1D 01}{01 0A}Júpiter, dios de los cielos y líder del Olimpo.{P}Tiene el potencial de la defensa.{03}
+@604 {1D 01}{01 0A}Marte, dios de la guerra.{P}Tiene el potencial del cambio.{03}
+@605 {1D 01}{01 0A}Diana, diosa de la luna y la caza.{P}Tiene el potencial de la creación.{03}
+@606 {1D 01}{01 0A}Apolo, dios del sol, la música y la profecía.{P}Tiene el potencial de crear explosivos.{03}
+@607 {1D 01}{01 0A}Neptuno, dios de los mares.{P}Tiene el potencial de la curación.{03}
+@608 {1D 01}{01 0A}Saturno, dios de la agricultura y padre de Júpiter.{P}Tiene el potencial de un familiar.{03}
+@609 {1D 01}{01 0A}Urano, antiguo dios de los cielos.{P}Tiene el potencial de la invocación.{03}
+@610 {1D 01}{01 0A}Plutón, dios del inframundo.{P}Tiene el potencial de lo especial.{03}

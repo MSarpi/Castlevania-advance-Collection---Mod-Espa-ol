@@ -1,0 +1,261 @@
+# Circle of the Moon - textos de menús (@número de cadena, en decimal).
+# '@N texto' se ajusta solo al ancho de su cuadro; '@N=' es literal.
+
+# --- Objetos mágicos (10 letras)
+@317 Bota veloz
+@318 Doble
+@319 Embestida
+@320 Bota pared
+@321 Aro pesado
+@322 Mapa
+@323 Purificar
+@324 Ala de Roc
+@325 Últ. llave
+
+# --- Combinaciones DSS (21 letras x 3 líneas)
+@390 Sin efecto.
+@391 Látigo de fuego para atacar a los enemigos.
+@392 Látigo de hielo. Los congelados sirven de plataforma.
+@393 Látigo de espinas para atacar a los enemigos.
+@394 Látigo de tierra para atacar a enemigos lejanos.
+@395 Látigo de piedra. Los petrificados sirven de plataforma.
+@396 Látigo venenoso que libera una niebla de veneno.
+@397 Látigo de viento. Ataca sin parar si mantienes ataque.
+@398 Látigo eléctrico. Electrocuta si mantienes ataque.
+@399 Látigo sagrado. Cada golpe repone salud.
+@400 Látigo oscuro que envuelve al enemigo en tinieblas.
+@401 El daño infligido aumenta un 25%.
+@402 La defensa aumenta un 25%.
+@403 La suerte aumenta un 25%.
+@404 La defensa sube según el % de mapa descubierto.
+@405 Ganas experiencia al caminar.
+@406 Recibes el doble de corazones.
+@407 La inteligencia aumenta un 25%.
+@408 El daño sube según el % de mapa descubierto.
+@409 Defensa X 2, pero el daño infligido es 1/2.
+@410 Daño infligido X 2, pero la defensa es 1/2.
+@411 2 bolas de fuego giran a tu alrededor y te protegen.
+@412 4 bolas de hielo te protegen y congelan a los enemigos.
+@413 Si te quedas quieto, la salud se repone poco a poco.
+@414 Al recibir daño, la invencibilidad dura X 4.
+@415 Te vuelves de piedra y eres invulnerable.
+@416 Una nube de veneno se extiende para protegerte.
+@417 Al correr, una onda sónica te protege.
+@418 Sales despedido al recibir daño, pero el daño es 1/2.
+@419 Te rodea una barrera circular.
+@420 Te rodea un agujero negro, pero pierdes HP.
+@421 Atacas con una espada de fuego.
+@422 Atacas con una espada de hielo. Congela enemigos.
+@423 Atacas con una espada de rosas.
+@424 Atacas con un martillo enorme. Causa terremotos.
+@425 Atacas con tonfas. Petrifica a los enemigos.
+@426 Atacas con garras venenosas.
+@427 Desenvaine. Mantén ataque más tiempo para hacer más daño.
+@428 Artes marciales. Mantén ataque para hacer combos.
+@429 Atacas con una espada sagrada.
+@430 Atacas con una pistola.
+@431 Cada ataque lanza una bola de fuego.
+@432 Cada ataque lanza 3 esquirlas de hielo.
+@433 Cada ataque lanza 3 nubes de pétalos.
+@434 Cada ataque provoca un temblor.
+@435 Cada ataque dispara 3 rocas.
+@436 Al blandir el látigo hacia arriba cae una lluvia de veneno.
+@437 Cada ataque libera una onda de viento.
+@438 Al girar el látigo, el aire se llena de electricidad.
+@439 Cada ataque lanza un proyectil guiado.
+@440 Cada ataque lanza 8 proyectiles oscuros.
+@441=
+Lanzas una bomba.
+[↓ →(←) ↑ + Ataque]
+@442=
+Lanzas una bola de
+hielo que congela.
+[↓ →(←) ↑ + Ataque]
+@443=
+Lanzas una rosa.
+[↓ →(←) ↑ + Ataque]
+@444=
+Surge una estalagmita
+para atacar.
+[↓ →(←) ↑ + Ataque]
+@445=
+Cae un cometa sobre
+el enemigo.
+[↓ →(←) ↑ + Ataque]
+@446=
+Detonas una bomba
+venenosa.
+[↓ →(←) ↑ + Ataque]
+@447=
+Creas un tornado.
+[↓ →(←) ↑ + Ataque]
+@448=
+Lanzas una bola de
+rayos.
+[↓ →(←) ↑ + Ataque]
+@449=
+Lanzas hacia abajo
+una flecha de luz.
+[↓ →(←) ↑ + Ataque]
+@450=
+Creas un agujero
+negro.
+[↓ →(←) ↑ + Ataque]
+@451 Los ataques de fuego te curan y gastan MP.
+@452 Los ataques de hielo te curan y gastan MP.
+@453 Los ataques de planta te curan y gastan MP.
+@454 Los ataques de tierra te curan y gastan MP.
+@455 Los ataques de piedra te curan y gastan MP.
+@456 Los ataques de veneno te curan y gastan MP.
+@457 Los ataques de viento te curan y gastan MP.
+@458 Los ataques de rayo te curan y gastan MP.
+@459 Los ataques de luz te curan y gastan MP.
+@460 Los ataques oscuros te curan y gastan MP.
+@461 Un murciélago familiar ataca a tu lado.
+@462 Aparece un fantasma familiar que va hacia los enemigos.
+@463 Un búho familiar ataca a tu lado.
+@464 Un halcón familiar se lanza sobre enemigos cercanos.
+@465 Una medusa familiar ataca a tu lado.
+@466 Un espectro familiar aparece y ataca a los enemigos.
+@467 Un espíritu del viento familiar ataca a tu lado.
+@468 Un cuervo familiar electrocuta a los enemigos.
+@469 Un querubín familiar ataca a tu lado.
+@470 Diablillo familiar. Golpea más fuerte al mantener ataque.
+@471=
+Invocas a Salamandra
+para que ataque.
+[↓ →(←) ↑ + Ataque]
+@472=
+Invocas a Serpiente
+para que ataque.
+[↓ →(←) ↑ + Ataque]
+@473=
+Invocas a Mandrágora
+para que ataque.
+[↓ →(←) ↑ + Ataque]
+@474=
+Invocas a Gólem
+para que ataque.
+[↓ →(←) ↑ + Ataque]
+@475=
+Invocas a Cocatriz
+para que ataque.
+[↓ →(←) ↑ + Ataque]
+@476=
+Invocas a Mantícora
+para que ataque.
+[↓ →(←) ↑ + Ataque]
+@477=
+Invocas a Grifo
+para que ataque.
+[↓ →(←) ↑ + Ataque]
+@478=
+Invocas a Ave trueno
+para que ataque.
+[↓ →(←) ↑ + Ataque]
+@479=
+Invocas a Unicornio
+para que ataque.
+[↓ →(←) ↑ + Ataque]
+@480=
+Invocas a Perro negro
+para que ataque.
+[↓ →(←) ↑ + Ataque]
+@481=
+Desatas un ataque
+especial del arma.
+[↓ →(←) ↑ + Ataque]
+@482 Dobla el número de armas secundarias al atacar.
+@483 Ganas un 20% más de experiencia.
+@484 Proyectas una imagen de ti mismo.
+@485 La defensa sube según el tiempo de juego.
+@486 Las armas secundarias gastan MP en vez de corazones.
+@487 Caminas y corres más rápido.
+@488 El daño infligido sube según el tiempo de juego.
+@489 El cuerpo brilla y nada puede golpearte.
+@490 Te transformas en esqueleto.
+
+# --- Selección de partida (24 letras)
+@492 Iniciar partida
+@493 Cambiar nombre
+@494 Copiar datos
+@495 Borrar datos
+@496 Elige los datos
+@497 ¿Qué nombre cambiar?
+@498 ¿Qué datos copiar?
+@499 ¿Copiar adónde?
+@500 ¿Sobrescribir datos?
+@501 Copia completada
+@502 ¿Qué datos borrar?
+@503 ¿Borrar?
+@504 Borrado
+@505 Sin datos
+
+# --- Ayuda del menú de pausa
+@508 Ajustes del sistema DSS
+@509 Usar o equipar objetos
+@510 Examinar cartas DSS
+@511 Examinar objetos mágicos
+@512 Cambiar configuración de botones
+@513 Hay botones duplicados
+@514 Quitar equipo
+
+# --- Descripciones de objetos (27 letras + una segunda línea de 24)
+@515 Armadura hecha de cuero
+@516 Armadura hecha de bronce
+@517 Armadura hecha de oro
+@518 Armadura hecha de anillas
+@519 Armadura de placas con anillas entrelazadas
+@520 Armadura de placas de platino
+@521 Armadura hecha de diamantes
+@522 Armadura pulida como un espejo
+@523 Armadura de placas cubierta de púas
+@524 Armadura maldita
+@525 Armadura que resplandece
+@526 Túnica hecha de algodón
+@527 Túnica hecha de seda
+@528 Una túnica colorida
+@529 Una túnica con magia en su interior
+@530 Dicen que esta túnica fue de un sabio
+@531 Ropa hecha de algodón
+@532 Ropa que llevaba un preso
+@533 Con esto serás popular
+@534 Un traje muy negro
+@535 Un traje negro de ninja
+@536 Uniforme que suelen llevar los soldados
+@537 Su poder se libera al equipar ambos
+@538 Su poder depende del brazo en que se lleve
+@539 Equipado, sube la fuerza
+@540 Equipado, sube la defensa
+@541 Equipado, sube la inteligencia
+@542 Equipado, sube la suerte
+@543 Equipado, baja mucho la suerte
+@544 Equipado, sube mucho la fuerza
+@545 Equipado, sube mucho la defensa
+@546 Equipado, sube mucho la inteligencia
+@547 Equipado, sube mucho la suerte
+@548 Muñequera de algodón
+@549 Equipado, sube el poder de ataque
+@550 Equipado, protege los brazos
+@551 El guantelete encierra poder mágico
+@552 Equipado, sube la suerte
+@553 Anillo inútil
+@554 Anillo con la maldición del oso
+@555 Recupera 20 HP
+@556 Recupera 50 HP
+@557 Recupera 100 HP
+@558 Recupera 250 HP
+@559 Recupera todo el HP
+@560 Cura el envenenamiento
+@561 Quita la maldición
+@562 Recupera 30% de MP
+@563 Recupera 50% de MP
+@564 Recupera todo el MP
+@565 Recupera 10 corazones
+@566 Recupera 25 corazones
+@567 Recupera 50 corazones
+@568 Recupera 100 corazones
+
+# --- Ranuras de guardado (12 letras, con un espacio delante)
+@506= ·SIN·DATOS··
+@507= ·NUEVO·JUEGO

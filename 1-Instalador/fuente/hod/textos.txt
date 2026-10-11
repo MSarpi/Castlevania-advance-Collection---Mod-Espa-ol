@@ -1,0 +1,331 @@
+# Harmony of Dissonance - descripciones y menús (@ID texto). El ajuste de línea es automático.
+
+# ---------------------------------------------------------------- Objetos
+@0F7 Restaura algo de HP.
+@0F8 Restaura una gran cantidad de HP.
+@0F9 Restaura todo el HP.
+@0FA Restaura algo de MP.
+@0FB Restaura una gran cantidad de MP.
+@0FC Restaura algo de HP.
+@0FD Restaura una gran cantidad de HP.
+@0FE Contrarresta los efectos del veneno.
+@0FF Contrarresta los efectos de las maldiciones.
+@100 Contiene una medicina que te hace invencible por un tiempo.
+@101 Abre la puerta que despide un brillo dorado.
+@102 Abre las puertas marcadas con una calavera.
+@103 Introdúcela en la cruz del león de la caverna.
+@104 Contiene una parte del plano del castillo.
+@105 Contiene una parte del plano del castillo.
+@106 Contiene una parte del plano del castillo.
+@107 En algún lugar existe un mecanismo para drenar las cuevas.
+@108 Los ojos de la estatua de la diosa señalan un pasadizo secreto.
+@109 Arrodíllate ante el portal redondo para ir a otro lugar.
+@10A Algunos hechizos pueden lanzarse varias veces.
+@10B Dicen que existe un libro con el poder de invocar monstruos.
+@10C El libro rojo y la Daga comparten un secreto.
+@10D No se puede ver de noche.
+@10E Una joya blanca.
+@10F Una joya verde azulada.
+@110 Una valiosa joya azul.
+@111 Una valiosa joya roja.
+@112 Una joya sumamente valiosa.
+@113 Mantén ATAQUE: el "ataque cargado" puede romper algunas paredes.
+@114 Añade una bola de acero a la punta del látigo.
+@115 Añade una bola de platino a la punta del látigo.
+@116 Mantén pulsado ATAQUE para hacer girar el látigo.
+@117 El látigo dispara balas por la punta solo con el HP al máximo.
+@118 Añade fuego a los ataques del látigo.
+@119 Añade hielo a los ataques del látigo.
+@11A Añade rayos a los ataques del látigo.
+@11B Añade viento a los ataques del látigo.
+@11C Armadura de pieles curtidas, fácil de llevar.
+@11D Armadura de un material blando parecido a la goma.
+@11E Armadura tejida con largas briznas de hierba. Muy resistente.
+@11F Larga cota de metal que protege por encima de las rodillas.
+@120 Armadura hecha de tela.
+@121 Armadura hecha de bronce.
+@122 Armadura de cuero en capas, endurecida con cera.
+@123 Armadura de tela tratada con un líquido especial.
+@124 Armadura de cuero con piezas de metal cosidas.
+@125 Un abrigo a la moda.
+@126 Armadura de adornos llamativos. A algunos les gusta.
+@127 Armadura hecha de malla de cadenas.
+@128 Armadura hecha de escamas de metal en capas.
+@129 Si te quedas quieto, esta armadura restaura tu HP poco a poco.
+@12A El cuerpo de la Armadura guardia.
+@12B Armadura muy resistente al fuego.
+@12C Armadura hecha con una combinación de madera y metal.
+@12D Cuenta la leyenda que la vistieron dioses antiguos.
+@12E Esta armadura parece pesadísima.
+@12F Armadura hecha toda de metal y, por tanto, pesadísima.
+@130 Armadura de doble capa.
+@131 Armadura influida por el Sol.
+@132 Armadura influida por la Luna.
+@133 Armadura diseñada para moverse con soltura en la batalla.
+@134 Esta armadura restaura tu HP mientras te mueves.
+@135 Armadura forjada en plata.
+@136 Armadura de un material que los alquimistas no comprenden.
+@137 Afecta al espíritu de quien la lleva. Reduce el consumo de MP.
+@138 Armadura que, según dicen, vistieron emperadores.
+@139 Ropa que suele usar la gente de ciudad.
+@13A Prendas finas, muy cómodas cuando hace calor.
+@13B Algo informal, pero a algunos les queda muy bien.
+@13C Túnica de retazos de tela fina, ligera como una pluma.
+@13D Ropa con hermosos bordados.
+@13E Diseñada para esquivar ataques con facilidad.
+@13F Parece un abrigo normal, pero lleva metal entretejido.
+@140 Túnica muy resistente al hielo.
+@141 Una túnica elegante, digna de la nobleza.
+@142 Túnica con extraños poderes ocultos. Aumenta la INT.
+@143 Túnica muy resistente a los rayos.
+@144 Ropa de combate. Reforzada en algunas zonas para proteger más.
+@145 Se rumorea que esta túnica la vistió un gran sabio.
+@146 Juste le tiene cariño a este brazalete y siempre lo lleva.
+@147 Permite ver en la oscuridad hasta cierto punto.
+@148 Maxim se lo dio a Juste como recuerdo.
+@149 Con el SUPERSALTO permiten atravesar algunos techos.
+@14A Una pañoleta con estilo.
+@14B Los turbantes triunfan en las zonas calurosas del mundo.
+@14C Una diadema sencilla.
+@14D Un gorro hecho de cuero.
+@14E Un casco hecho de tela muy endurecida.
+@14F Un casco hecho de cuero.
+@150 Un casco con fuertes medallas incrustadas.
+@151 Un casco de metal que protege la coronilla.
+@152 Un casco de estilo corintio.
+@153 Una pieza diseñada para proteger el rostro.
+@154 Un casco de una tierra lejana.
+@155 Un casco tejido con finas tiras de metal.
+@156 Un casco con protector facial.
+@157 La cabeza de la Armadura guardia.
+@158 Un casco hecho para proteger la nuca.
+@159 Un casco hecho de malla de cadenas.
+@15A Con este sombrero se luce muy elegante.
+@15B Un casco con forma de tubo.
+@15C Un casco con cubrenuca para mayor seguridad.
+@15D Un casco con forma de caldero.
+@15E Un casco hecho de hierro.
+@15F Un casco que cubre la cabeza hasta el cuello.
+@160 Un casco con orejeras. Con él se oye peor.
+@161 Un casco que parece una olla boca abajo.
+@162 Una tiara labrada en plata.
+@163 Un casco hecho de acero.
+@164 Un casco muy usado por los vikingos.
+@165 Una cinta para la cabeza hecha de oro.
+@166 Una corona hecha de platino.
+@167 Un sombrero de copa de seda carmesí, semiformal.
+@168 Guantes hechos de cuero. Abrigan.
+@169 Los guanteletes son armadura para las manos.
+@16A Un guante acolchado que protege las manos.
+@16B Guantes de cuero endurecido.
+@16C El brazo de la Armadura guardia.
+@16D Protegen bien todo el brazo, pero dan algo de calor.
+@16E Armadura para el brazo hecha toda de metal.
+@16F Un guante empapado en mucha sangre.
+@170 Un guante hecho de acero.
+@171 Botas hechas de cuero. Bastante cómodas.
+@172 Calzado protector de cuero. También cubre las espinillas.
+@173 Calzado diseñado para proteger mejor los tobillos.
+@174 Botas hechas de bronce.
+@175 Las piernas de la Armadura guardia.
+@176 Botas hechas de hierro. Frías en invierno.
+@177 Pantalones blindados, reforzados con placas de metal.
+@178 El frente de estas botas está reforzado con placas de metal.
+@179 Botas hechas de plata.
+@17A Botas que desafían las leyes de la gravedad.
+@17B Zapatos hechos de platino. Sumamente valiosos.
+@17C Estas botas permiten dar saltos infinitos.
+@17D Una capa de seda fina, ligerísima.
+@17E Una capa hecha de terciopelo.
+@17F Una capa de color verde brillante.
+@180 Una capa muy resistente al viento.
+@181 Una capa roja como la sangre.
+@182 La capa de un asesino del país del oro.
+@183 Una capa negra que envuelve en tinieblas a quien la lleva.
+@184 Ofrece un apoyo excelente.
+@185 Un protector de muñeca.
+@186 Dicen que esta manopla la usaron emperadores.
+@187 Una pulsera hecha de plata.
+@188 Este brazalete tiene grabado algún tipo de blasón.
+@189 Un colgante de los que se compran en cualquier parte.
+@18A Este amuleto aumenta la LCK. No está permitido mirar dentro.
+@18B Un collar hecho de oro. Un poco ostentoso.
+@18C Este collar mágico hace más sabio a quien lo lleva.
+@18D Este colgante aumenta la resistencia a la petrificación.
+@18E Con forma de corazón. Aparecen más CORAZONES GRANDES.
+@18F Este amuleto aumenta la suerte para encontrar dinero.
+@190 Este broche hace mucho más sabio a quien lo lleva.
+@191 Acelera el ritmo al que se restaura el MP.
+@192 Este colgante aumenta la resistencia al veneno.
+@193 Aumenta la LCK de quien lo lleva.
+@194 Su poder sagrado hace difícil que te lancen maldiciones.
+@195 Aumenta la frecuencia con que aparecen objetos raros.
+@196 Aumenta la fuerza del Agua bendita.
+@197 Aumenta la fuerza de la Cruz.
+@198 Aumenta la fuerza de la Daga.
+@199 Aumenta la fuerza del Hacha.
+@19A Aumenta la fuerza del Puño sagrado.
+@19B Aumenta la fuerza del Libro sagrado.
+@19C Combinado con un arma secundaria, lanza hechizos de fuego.
+@19D Combinado con un arma secundaria, lanza hechizos de hielo.
+@19E Combinado con un arma secundaria, lanza hechizos de rayo.
+@19F Combinado con un arma secundaria, lanza hechizos de viento.
+@1A0 Combinado con un arma secundaria, invoca monstruos.
+@1A1 Pulsando ABAJO + SALTO puedes DESLIZARTE.
+@1A2 En el aire puedes dar un SALTO adicional.
+@1A3 Pulsando ABAJO/ARRIBA + SALTO haces un SUPERSALTO.
+@1A4 Permite ver cuánto daño ha recibido un enemigo.
+@1A5 Permite conocer los nombres de los enemigos.
+@1A6 Permite ver los datos de los monstruos que has encontrado.
+@1A7 Uno de los restos de Drácula. Tiene el poder de anular maldiciones.
+@1A8 Uno de los restos de Drácula. Anula la petrificación.
+@1A9 Uno de los restos de Drácula. Tiene el poder de anular el veneno.
+@1AA Uno de los restos de Drácula. Aumenta la STR.
+@1AB Uno de los restos de Drácula. Aumenta la DEF.
+@1AC Una de las posesiones terrenales de Drácula. Aumenta la LCK.
+@1AD Dicen que la usó la realeza. Tiene una historia interesante.
+@1AE Comprado la mañana en que nació tu abuelo. Aún da la hora exacta.
+@1AF Una estantería muy sólida. Y a prueba de terremotos.
+@1B0 Prototipo de radio recibido del gran inventor en persona.
+@1B1 Esta vajilla de plata pura irradia elegancia.
+@1B2 Labrada en un cedro de 1000 años.
+@1B3 Una silla de madera de excelente factura.
+@1B4 Esta silla relajante cruje suavemente al mecerse.
+@1B5 Hecha con las sedas más finas, suave como la leche al tacto.
+@1B6 Los objetos más valiosos son aquellos cuyo valor cuesta adivinar.
+@1B7 Mirar fijamente esta urna suele provocar estornudos.
+@1B8 Un bonito jarrón rebosante de flores artificiales.
+@1B9 Las mesas auxiliares dan un toque agradable a cualquier sala.
+@1BA Con un sorbo de té de esta taza puedes unirte a nuestro clan.
+@1BB Tiene el poder de hacer que el té sepa mejor de lo que es.
+@1BC Una hermosa copa para veladas elegantes con amigos.
+@1BD Un héroe inmortalizado para siempre. Algún día seré yo...
+@1BE Estatua de una diosa. Qué hermosas son las diosas, ¿verdad?
+@1BF Estatua de un anciano con cara de engreído.
+@1C0 Soberbia obra de un artesano de figuras de tanuki muy hábil.
+@1C1 Una estatua que ayuda a atraer dinero. Eficacia desconocida.
+@1C2 Una máquina que emite sonido. Lo analógico es genial, ¿eh?
+@1C3 Símbolo de los ricos. Siento como si me observaran.
+@1C4 Un candelero de plata para veladas elegantes con amigos.
+@1C5 Un candelero de oro para veladas elegantes con amigos.
+@1C6 Inscripción: "A la luz de las velas, toda comida parece comestible".
+@1C7 Inscripción: "A la luz de las velas le gustas más a tu novia".
+@1C8 Si te asomas, sientes como si hubiera alguien ahí...
+@1C9 Parece fuera de lugar en este castillo.
+@1CA Fabricada por la única marca de confianza en camas: "FUTON".
+@1CB Olvídate de tener demasiada ropa y muy poco espacio.
+
+# ------------------------------------------------------------------ Menús
+@250= {sp}¿Guardar?{sp}
+@251= {sp}Sí{sp}
+@252= {sp}No{sp}
+@254 Cambiar el equipo.
+@255 Examinar o usar objetos.
+@256 Elegir libro de hechizos.
+@257 Activar o desactivar objetos mágicos.
+@259 Guardado rápido
+@25A Esta función no se puede usar hasta que guardes la partida.
+@25B Esta función no se puede usar hasta que guardes la partida.
+@25C ¿Hacer un guardado rápido ahora?
+@25E No equipar nada.
+@25F Nada equipado.
+@260 Pulsa SELECT para restablecer la configuración.
+@261 ¡Hay controles en conflicto!
+@262 Consulta los datos de todos los enemigos vencidos.
+@263 Consulta los datos de todos los muebles recogidos.
+@264 Escucha la música y los efectos de sonido.
+@265= {sp}se usó
+@266 Alzaste el Brazalete de Maxim.
+@267 En algún lugar se drenó muchísima agua.
+@268 Iniciar partida.
+@269 Cambiar nombre.
+@26A Cambiar de lugar los datos guardados.
+@26B Borrar datos.
+@26C Elige los datos que quieres copiar.
+@26D Elige dónde copiar los datos.
+@26E Elige los datos guardados que quieres borrar.
+@26F Empezar la partida desde el principio.
+@270 Continuar partida.
+@271 Elige los datos que quieres cambiar.
+@272 Está cerrada con llave.
+@273 Está sellada.
+@274 Está cerrada con un hechizo mágico.
+@275= objeto mágico{sp}
+@276= arma{sp}
+@277= pergamino mágico{sp}
+@278= Obtenido{sp}
+@279 Escucha la música usada en el juego.
+@27A Escucha los efectos de sonido usados en el juego.
+@27C Se abrió un pasaje en algún lugar.
+@27D Los restos de Drácula están brillando.
+@27E Ahora no es posible hacer un guardado rápido.
+@27F Se oyen máquinas moviéndose arriba.
+@284 Cómprame algo, por favor. Tienes dinero, ¿verdad?
+@285 Si me muestras algo de valor, quizá te dé unas monedas por ello.
+@286 Entonces, ¿ya terminaste tus asuntos conmigo?
+@289 Colocando un mueble
+
+# ----------------------------------------------------------------- Música
+@28C Música del título 1
+@28D Música del título 2
+@28E Registro de nombre
+@28F=
+Prólogo
+Tema de MAXIM KISCHINE
+@290=
+Entrada (zona)
+Tema de JUSTE BELMONT
+@291=
+Corredor de mármol
+(zona)
+@292=
+Santuario de los
+apóstatas (zona)
+@293=
+Caverna luminosa
+(zona)
+@294=
+Acueducto de dragones
+(zona)
+@295=
+Capilla de la disonancia
+(zona)
+@296=
+Torre del reloj
+(zona)
+@297=
+Cueva de los esqueletos
+(zona)
+@298 Castillo (zona)
+@299 Tema de la MUERTE
+@29A=
+Jefe
+(patrón de bucle A)
+@29B=
+Jefe
+(patrón de bucle B)
+@29C=
+Jefe
+(patrón de bucle C)
+@29D Epílogo 1
+@29E Fin del juego
+@29F Tema de DRÁCULA
+@2A0 Última batalla
+@2A1=
+Epílogo 2
+Tema de LYDIE ELRANGER
+@2A2=
+Créditos
+Tema de JUSTE BELMONT
+@2A3 Música de fase extra 1
+@2A4 Música de fase extra 2
+@2A5=
+Música de fase extra 3
+"Vampire Killer"
+@2A6 Música de fase extra 4
+@2A7 Tema del MERCADER
+@2A8 Tema de MAXIM KISCHINE
+@2A9 Tema de LYDIE ELRANGER
+@2AA=
+Sala de la colección
+de objetos
